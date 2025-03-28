@@ -27,21 +27,17 @@ class MultilingualTripletLoss(nn.Module):
             }
             labels: 배치 내 실제 라벨 정보
         """
-        # 앵커: 단일 언어
         anchor_en = embeddings["English"]
         anchor_ko = embeddings["Korean"]
         
-        # 포지티브: 코드 스위칭
         pos_etok = embeddings["EtoK"]
         pos_ktoe = embeddings["KtoE"]
         
-        # 네거티브 샘플링 (배치 내 하드 네거티브)
         batch_size = anchor_en.size(0)
         neg_idx = torch.randint(0, batch_size, (batch_size,))
         neg_en = anchor_en[neg_idx]
         neg_ko = anchor_ko[neg_idx]
         
-        # 대조 손실 계산
         loss_en = F.triplet_margin_loss(
             anchor_en, 
             (pos_etok + pos_ktoe)/2, 
@@ -56,9 +52,8 @@ class MultilingualTripletLoss(nn.Module):
             margin=self.margin
         )
         
-        # 교차 언어 유사도 정규화
         cross_sim = F.cosine_similarity(anchor_en, anchor_ko)
-        reg_loss = torch.mean(torch.abs(cross_sim - 0.8))  # 0.8 목표 유사도
+        reg_loss = torch.mean(torch.abs(cross_sim - 0.8))  
         
         return 0.7*(loss_en + loss_ko) + 0.3*reg_loss
 
@@ -82,19 +77,24 @@ def train_model(model, dataloader, optimizer, criterion, epochs=10):
             
             embeddings = {}
             for key in ['English', 'Korean', 'EtoK', 'KtoE']:
-                input_ids = batch[key]['input_ids'].to(device)
-                attention_mask = batch[key]['attention_mask'].to(device)
+                input_ids = batch[key]['input_ids'].squeeze(1).to(device)  # [batch, seq_len]
+                attention_mask = batch[key]['attention_mask'].squeeze(1).to(device)
                 
-                with torch.cuda.amp.autocast():
-                    outputs = model(input_ids=input_ids, 
-                                  attention_mask=attention_mask)
+                assert input_ids.dim() == 2, f"잘못된 input_ids 차원: {input_ids.shape}"
+                assert attention_mask.dim() == 2, f"잘못된 attention_mask 차원: {attention_mask.shape}"
+                
+                with torch.amp.autocast(device_type='cuda', dtype=torch.float16):
+                    outputs = model(
+                        input_ids=input_ids,
+                        attention_mask=attention_mask
+                    )
                     
                 embeddings[key] = criterion.mean_pooling(outputs, attention_mask)
             
             loss = criterion(embeddings, batch.get('labels'))
             
             loss.backward()
-            torch.nn.utils.clip_grad_norm_(model.parameters(), 5.0)  # 그래디언트 클리핑 완화
+            torch.nn.utils.clip_grad_norm_(model.parameters(), 5.0)
             optimizer.step()
             scheduler.step()
             
@@ -110,4 +110,5 @@ def train_model(model, dataloader, optimizer, criterion, epochs=10):
         epoch_loss = total_loss / len(dataloader)
         wandb.log({'epoch_loss': epoch_loss})
         print(f"Epoch {epoch+1} Loss: {epoch_loss:.4f}")
+
 
