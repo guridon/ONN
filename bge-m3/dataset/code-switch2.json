@@ -1,0 +1,842 @@
+[
+    {
+      "topic": "science/technology",
+      "type": "fact",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "The 블랙홀 is a space region with extreme gravity.",
+      "KtoE": "블랙홀은 극심한 gravity를 가진 우주 영역이다.",
+      "English": "The black hole is a space region with extreme gravity.",
+      "Korean": "블랙홀은 극심한 중력을 가진 우주 영역이다."
+    },
+    {
+      "topic": "science/technology",
+      "type": "fact",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "The 블랙홀, discovered via telescopes, warps spacetime noticeably.",
+      "KtoE": "블랙홀은 망원경 관측으로 발견되어 spacetime을 뚜렷하게 왜곡시킨다.",
+      "English": "The black hole, discovered via telescopes, warps spacetime noticeably.",
+      "Korean": "블랙홀은 망원경 관측으로 발견되어 시공간을 뚜렷하게 왜곡시킨다."
+    },
+    {
+      "topic": "science/technology",
+      "type": "fact",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Because of its immense gravity, the 블랙홀 bends nearby light.",
+      "KtoE": "엄청난 중력 때문에, 블랙홀은 주변의 light를 굽힌다.",
+      "English": "Because of its immense gravity, the black hole bends nearby light.",
+      "Korean": "엄청난 중력으로 인해 블랙홀은 주변의 빛을 굽힌다."
+    },
+    {
+      "topic": "science/technology",
+      "type": "fact",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Although its boundary is elusive, the 블랙홀, by curving light and time, unveils cosmic secrets.",
+      "KtoE": "경계가 모호하지만, 블랙홀은 light와 time을 굴절시켜 우주 비밀을 드러낸다.",
+      "English": "Although its boundary is elusive, the black hole, by curving light and time, unveils cosmic secrets.",
+      "Korean": "경계가 모호하지만, 블랙홀은 빛과 시간을 굴절시켜 우주의 비밀을 드러낸다."
+    },
+    {
+      "topic": "science/technology",
+      "type": "question",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "Does 양자 컴퓨팅 use qubits instead of bits?",
+      "KtoE": "양자 컴퓨팅은 bits 대신 qubits를 사용하나요?",
+      "English": "Does quantum computing use qubits instead of bits?",
+      "Korean": "양자 컴퓨팅은 비트 대신 큐비트를 사용하나요?"
+    },
+    {
+      "topic": "science/technology",
+      "type": "question",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "Can you confirm that 양자 컴퓨팅, using qubits, outperforms classical systems in some tasks?",
+      "KtoE": "큐비트를 활용하는 양자 컴퓨팅이 일부 작업에서 classical 시스템보다 우수한지 확인할 수 있나요?",
+      "English": "Can you confirm that quantum computing, using qubits, outperforms classical systems in some tasks?",
+      "Korean": "큐비트를 활용하는 양자 컴퓨팅이 일부 작업에서 고전 시스템보다 우수한지 확인할 수 있나요?"
+    },
+    {
+      "topic": "science/technology",
+      "type": "question",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Since it leverages superposition, do you think 양자 컴퓨팅 will transform data processing?",
+      "KtoE": "superposition을 활용하기에, 양자 컴퓨팅이 데이터 처리를 혁신할 것이라고 보나요?",
+      "English": "Since it leverages superposition, do you think quantum computing will transform data processing?",
+      "Korean": "중첩 원리를 활용하기에, 양자 컴퓨팅이 데이터 처리를 혁신할 것이라고 보나요?"
+    },
+    {
+      "topic": "science/technology",
+      "type": "question",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Although in its infancy, can we agree that 양자 컴퓨팅, via entanglement and superposition, promises breakthrough power?",
+      "KtoE": "아직 초기 단계지만, entanglement와 superposition을 활용하는 양자 컴퓨팅이 획기적 능력을 약속한다고 볼 수 있나요?",
+      "English": "Although in its infancy, can we agree that quantum computing, via entanglement and superposition, promises breakthrough power?",
+      "Korean": "아직 초기 단계지만, 얽힘과 중첩을 활용하는 양자 컴퓨팅이 혁신적인 성능을 약속한다고 볼 수 있나요?"
+    },
+    {
+      "topic": "science/technology",
+      "type": "opinion",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "I believe 인공지능 is revolutionizing technology.",
+      "KtoE": "저는 인공지능이 technology를 혁신하고 있다고 생각한다.",
+      "English": "I believe artificial intelligence is revolutionizing technology.",
+      "Korean": "저는 인공지능이 기술 혁신을 이끌고 있다고 생각한다."
+    },
+    {
+      "topic": "science/technology",
+      "type": "opinion",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "I feel that 인공지능, by automating processes, boosts efficiency in many sectors.",
+      "KtoE": "저는 인공지능이 processes를 자동화해 여러 분야의 효율성을 높인다고 느낀다.",
+      "English": "I feel that artificial intelligence, by automating processes, boosts efficiency in many sectors.",
+      "Korean": "저는 인공지능이 프로세스를 자동화하여 다양한 분야에서 효율성을 높인다고 느낀다."
+    },
+    {
+      "topic": "science/technology",
+      "type": "opinion",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Although debated, I think 인공지능, evolving fast, brings both promise and risk.",
+      "KtoE": "논란이 있더라도, 빠르게 진화하는 인공지능은 promise와 risk를 동시에 제공한다고 본다.",
+      "English": "Although debated, I think artificial intelligence, evolving fast, brings both promise and risk.",
+      "Korean": "논란이 있더라도, 빠르게 발전하는 인공지능은 약속과 위험을 동시에 가져온다고 생각한다."
+    },
+    {
+      "topic": "science/technology",
+      "type": "opinion",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Even though its future is uncertain, I argue that 인공지능, integrating deep learning and neural networks, will reshape industries.",
+      "KtoE": "미래가 불확실하더라도, deep learning과 neural networks를 결합한 인공지능이 산업 구조를 바꿀 것이라고 주장한다.",
+      "English": "Even though its future is uncertain, I argue that artificial intelligence, integrating deep learning and neural networks, will reshape industries.",
+      "Korean": "미래가 불확실하더라도, 딥러닝과 신경망을 결합한 인공지능이 산업을 근본적으로 변화시킬 것이라고 주장한다."
+    },
+    {
+      "topic": "language",
+      "type": "fact",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "A verb expresses an action or 상태.",
+      "KtoE": "동사는 action이나 상태를 나타낸다.",
+      "English": "A verb expresses an action or state.",
+      "Korean": "동사는 행동이나 상태를 나타낸다."
+    },
+    {
+      "topic": "language",
+      "type": "fact",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "A verb, a core 품사, clearly shows an action or a state.",
+      "KtoE": "동사는 핵심 품사로서 행동이나 상태를 명확하게 나타낸다.",
+      "English": "A verb, a core part of speech, clearly shows an action or a state.",
+      "Korean": "동사는 핵심 품사로서 행동이나 상태를 명확히 나타낸다."
+    },
+    {
+      "topic": "language",
+      "type": "fact",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Since it conjugates for tense, a verb is vital in constructing 문장.",
+      "KtoE": "시제 변화로 동사는 문장 구성에 필수적이다.",
+      "English": "Since it conjugates for tense, a verb is vital in constructing sentences.",
+      "Korean": "동사는 시제 변화로 인해 문장을 구성하는 데 필수적이다."
+    },
+    {
+      "topic": "language",
+      "type": "fact",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Although modifiers enrich meaning, verbs, by conjugating for tense and mood, form the backbone of coherent 문장.",
+      "KtoE": "수식어가 의미를 보완하지만, 동사는 시제와 mood를 활용해 일관된 문장의 뼈대를 이룬다.",
+      "English": "Although modifiers enrich meaning, verbs, by conjugating for tense and mood, form the backbone of coherent sentences.",
+      "Korean": "수식어가 의미를 보완하지만, 동사는 시제와 법을 활용해 일관된 문장의 기반을 이룬다."
+    },
+    {
+      "topic": "language",
+      "type": "question",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "Does a verb indicate an action or state?",
+      "KtoE": "동사가 행동이나 상태를 나타내나요?",
+      "English": "Does a verb indicate an action or state?",
+      "Korean": "동사가 행동이나 상태를 나타내나요?"
+    },
+    {
+      "topic": "language",
+      "type": "question",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "Can you verify that a verb, as a basic 품사, shows either an action or a state?",
+      "KtoE": "동사가 기본 품사로서 행동이나 상태를 나타낸다는 것을 확인할 수 있나요?",
+      "English": "Can you verify that a verb, as a basic part of speech, shows either an action or a state?",
+      "Korean": "동사가 기본 품사로서 행동이나 상태를 나타낸다는 것을 확인할 수 있나요?"
+    },
+    {
+      "topic": "language",
+      "type": "question",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Since verbs change form, do you think they complicate 문장 construction?",
+      "KtoE": "동사의 형태 변화 때문에 문장 구성이 복잡해진다고 보나요?",
+      "English": "Since verbs change form, do you think they complicate sentence construction?",
+      "Korean": "동사가 형태를 변화시키기 때문에 문장 구성이 복잡해진다고 생각하나요?"
+    },
+    {
+      "topic": "language",
+      "type": "question",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Although auxiliary verbs help clarify meaning, can we agree that irregular verb conjugation often complicates language learning?",
+      "KtoE": "보조 동사가 의미를 보조하지만, 불규칙 동사 활용이 언어 학습을 복잡하게 만든다고 볼 수 있나요?",
+      "English": "Although auxiliary verbs help clarify meaning, can we agree that irregular verb conjugation often complicates language learning?",
+      "Korean": "보조 동사가 의미를 보조하지만, 불규칙 동사 활용이 언어 학습을 복잡하게 만든다고 동의하나요?"
+    },
+    {
+      "topic": "language",
+      "type": "opinion",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "I think verbs add energy to 문장.",
+      "KtoE": "저는 동사가 문장에 energy를 준다고 생각한다.",
+      "English": "I think verbs add energy to sentences.",
+      "Korean": "저는 동사가 문장에 생동감을 준다고 생각한다."
+    },
+    {
+      "topic": "language",
+      "type": "opinion",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "I feel that verbs, by showing action, inject dynamism and clarity into communication.",
+      "KtoE": "저는 동사가 행동을 보여주어 communication에 dynamism과 clarity를 불어넣는다고 느낀다.",
+      "English": "I feel that verbs, by showing action, inject dynamism and clarity into communication.",
+      "Korean": "저는 동사가 행동을 나타내어 의사소통에 활력과 명료함을 불어넣는다고 느낀다."
+    },
+    {
+      "topic": "language",
+      "type": "opinion",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Although adjectives are valued, I believe verbs are more critical for effective 문장.",
+      "KtoE": "형용사도 중요하지만, 동사가 효과적인 문장 구성에 더 핵심적이라고 본다.",
+      "English": "Although adjectives are valued, I believe verbs are more critical for effective sentences.",
+      "Korean": "형용사도 중요하지만, 동사가 효과적인 문장 구성에 더 핵심적이라고 생각한다."
+    },
+    {
+      "topic": "language",
+      "type": "opinion",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Even though vocabulary is vast, I argue that mastering verb conjugation is essential for fluency.",
+      "KtoE": "어휘가 방대함에도, 동사 활용을 익히는 것이 유창함의 열쇠라고 주장한다.",
+      "English": "Even though vocabulary is vast, I argue that mastering verb conjugation is essential for fluency.",
+      "Korean": "어휘가 방대하더라도, 동사 활용을 마스터하는 것이 유창한 언어 사용의 핵심이라고 주장한다."
+    },
+    {
+      "topic": "history/culture",
+      "type": "fact",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "The 베를린 장벽 fell in 1989.",
+      "KtoE": "베를린 장벽은 1989년에 붕괴되었다.",
+      "English": "The Berlin Wall fell in 1989.",
+      "Korean": "베를린 장벽은 1989년에 무너졌다."
+    },
+    {
+      "topic": "history/culture",
+      "type": "fact",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "The 베를린 장벽, symbolizing divided Germany, collapsed in 1989.",
+      "KtoE": "분단된 Germany를 상징하던 베를린 장벽이 1989년에 붕괴되었다.",
+      "English": "The Berlin Wall, symbolizing divided Germany, collapsed in 1989.",
+      "Korean": "분단된 독일을 상징한 베를린 장벽은 1989년에 붕괴되었다."
+    },
+    {
+      "topic": "history/culture",
+      "type": "fact",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Because it marked a political shift, the fall of the 베를린 장벽 reshaped history.",
+      "KtoE": "정치적 전환을 알리며, 베를린 장벽 붕괴가 역사를 재편했다.",
+      "English": "Because it marked a political shift, the fall of the Berlin Wall reshaped history.",
+      "Korean": "정치적 전환을 알리며, 베를린 장벽의 붕괴는 역사를 재편했다."
+    },
+    {
+      "topic": "history/culture",
+      "type": "fact",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Although gradual, the collapse of the 베를린 장벽 in 1989 accelerated German reunification and transformed cultural landscapes.",
+      "KtoE": "서서히 진행되었으나, 1989년 베를린 장벽 붕괴가 독일 통일을 가속화하며 문화 지형을 바꿨다.",
+      "English": "Although gradual, the collapse of the Berlin Wall in 1989 accelerated German reunification and transformed cultural landscapes.",
+      "Korean": "서서히 진행되었지만, 1989년 베를린 장벽의 붕괴는 독일 통일을 가속화하고 문화적 지형을 변화시켰다."
+    },
+    {
+      "topic": "history/culture",
+      "type": "question",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "Did the 베를린 장벽 fall in 1989?",
+      "KtoE": "베를린 장벽이 1989년에 붕괴되었나요?",
+      "English": "Did the Berlin Wall fall in 1989?",
+      "Korean": "베를린 장벽이 1989년에 무너졌나요?"
+    },
+    {
+      "topic": "history/culture",
+      "type": "question",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "Can you confirm that the fall of the 베를린 장벽, a turning point, occurred in 1989?",
+      "KtoE": "전환점이 된 베를린 장벽 붕괴가 1989년에 일어났다는 것을 확인할 수 있나요?",
+      "English": "Can you confirm that the fall of the Berlin Wall, a turning point, occurred in 1989?",
+      "Korean": "전환점이 된 베를린 장벽의 붕괴가 1989년에 일어났다는 것을 확인할 수 있나요?"
+    },
+    {
+      "topic": "history/culture",
+      "type": "question",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Since it shifted European dynamics, do you believe the fall of the 베를린 장벽 altered history?",
+      "KtoE": "유럽 역학을 바꿨기에, 베를린 장벽 붕괴가 역사를 바꿨다고 보나요?",
+      "English": "Since it shifted European dynamics, do you believe the fall of the Berlin Wall altered history?",
+      "Korean": "유럽의 역학을 바꿨으므로, 베를린 장벽의 붕괴가 역사를 바꿨다고 생각하나요?"
+    },
+    {
+      "topic": "history/culture",
+      "type": "question",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Although opinions vary, can we agree that the 1989 collapse of the 베를린 장벽, symbolizing freedom, transformed cultural landscapes?",
+      "KtoE": "의견이 다르더라도, 1989년 베를린 장벽 붕괴가 자유를 상징하며 문화 지형을 바꿨다고 볼 수 있나요?",
+      "English": "Although opinions vary, can we agree that the 1989 collapse of the Berlin Wall, symbolizing freedom, transformed cultural landscapes?",
+      "Korean": "의견이 다르더라도, 1989년 베를린 장벽의 붕괴가 자유를 상징하며 문화 지형을 변화시켰다고 볼 수 있나요?"
+    },
+    {
+      "topic": "history/culture",
+      "type": "opinion",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "I think the fall of the 베를린 장벽 was a historic moment.",
+      "KtoE": "저는 베를린 장벽 붕괴가 historic했다고 생각한다.",
+      "English": "I think the fall of the Berlin Wall was a historic moment.",
+      "Korean": "저는 베를린 장벽 붕괴가 역사적인 사건이었다고 생각한다."
+    },
+    {
+      "topic": "history/culture",
+      "type": "opinion",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "I feel that the collapse of the 베를린 장벽 ignited hope and unity across nations.",
+      "KtoE": "저는 베를린 장벽 붕괴가 여러 나라에 희망과 단합을 불러일으켰다고 느낀다.",
+      "English": "I feel that the collapse of the Berlin Wall ignited hope and unity across nations.",
+      "Korean": "저는 베를린 장벽 붕괴가 여러 나라에 희망과 통합을 불러일으켰다고 느낀다."
+    },
+    {
+      "topic": "history/culture",
+      "type": "opinion",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Although its significance is debated, I believe the fall of the 베를린 장벽 reshaped modern history.",
+      "KtoE": "의미에 대해 논란이 있지만, 베를린 장벽 붕괴가 modern history를 재편했다고 생각한다.",
+      "English": "Although its significance is debated, I believe the fall of the Berlin Wall reshaped modern history.",
+      "Korean": "의미에 대해 논란이 있지만, 베를린 장벽 붕괴가 현대 역사를 재편했다고 생각한다."
+    },
+    {
+      "topic": "history/culture",
+      "type": "opinion",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Even if historians differ, I argue that the 1989 collapse of the 베를린 장벽, by ending division, paved the way for a new cultural era.",
+      "KtoE": "역사가들이 달라도, 1989년 베를린 장벽 붕괴가 분단을 끝내며 새로운 문화 시대를 열었다고 주장한다.",
+      "English": "Even if historians differ, I argue that the 1989 collapse of the Berlin Wall, by ending division, paved the way for a new cultural era.",
+      "Korean": "역사가들이 달라도, 1989년 베를린 장벽 붕괴가 분단을 종식시키며 새로운 문화 시대를 열었다고 주장한다."
+    },
+    {
+      "topic": "economy/politics",
+      "type": "fact",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "Interest rates determine the cost of borrowing money.",
+      "KtoE": "금리는 money 빌리는 비용을 결정한다.",
+      "English": "Interest rates determine the cost of borrowing money.",
+      "Korean": "금리는 돈을 빌리는 비용을 결정한다."
+    },
+    {
+      "topic": "economy/politics",
+      "type": "fact",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "Interest rates, set by central banks, affect growth and consumer spending.",
+      "KtoE": "중앙은행이 정하는 금리는 경제 성장과 소비자 지출에 영향을 준다.",
+      "English": "Interest rates, set by central banks, affect growth and consumer spending.",
+      "Korean": "중앙은행이 설정하는 금리는 경제 성장과 소비자 지출에 영향을 미친다."
+    },
+    {
+      "topic": "economy/politics",
+      "type": "fact",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Because they mirror monetary policy, interest rates can influence inflation trends.",
+      "KtoE": "통화 정책을 반영하므로, 금리는 인플레이션 추세에 영향을 줄 수 있다.",
+      "English": "Because they mirror monetary policy, interest rates can influence inflation trends.",
+      "Korean": "금리는 통화 정책을 반영하여 인플레이션 추세에 영향을 줄 수 있다."
+    },
+    {
+      "topic": "economy/politics",
+      "type": "fact",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Although many factors interplay, interest rates, as a monetary tool, are pivotal for managing economic cycles and inflation.",
+      "KtoE": "여러 요인이 작용하지만, 금리는 통화 도구로서 경제 주기와 인플레이션 관리를 위해 핵심적이다.",
+      "English": "Although many factors interplay, interest rates, as a monetary tool, are pivotal for managing economic cycles and inflation.",
+      "Korean": "여러 요인이 작용하지만, 금리는 통화 도구로서 경제 주기와 인플레이션 관리를 위해 핵심적이다."
+    },
+    {
+      "topic": "economy/politics",
+      "type": "question",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "Do higher interest rates slow down borrowing?",
+      "KtoE": "높은 금리가 money 빌리는 속도를 늦추나요?",
+      "English": "Do higher interest rates slow down borrowing?",
+      "Korean": "높은 금리가 대출 속도를 늦추나요?"
+    },
+    {
+      "topic": "economy/politics",
+      "type": "question",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "Can you verify that increased interest rates lead to reduced consumer borrowing?",
+      "KtoE": "높은 금리가 소비자 대출 감소로 이어진다는 것을 확인할 수 있나요?",
+      "English": "Can you verify that increased interest rates lead to reduced consumer borrowing?",
+      "Korean": "높은 금리가 소비자 대출 감소로 이어진다는 것을 확인할 수 있나요?"
+    },
+    {
+      "topic": "economy/politics",
+      "type": "question",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Since monetary policy affects growth, do you think interest rates are critical for economic stability?",
+      "KtoE": "통화 정책이 성장에 영향을 주니, 금리가 경제 안정에 필수적이라고 보나요?",
+      "English": "Since monetary policy affects growth, do you think interest rates are critical for economic stability?",
+      "Korean": "통화 정책이 성장에 영향을 주므로, 금리가 경제 안정에 필수적이라고 생각하나요?"
+    },
+    {
+      "topic": "economy/politics",
+      "type": "question",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Although influenced by global markets, can we agree that interest rates, by modulating borrowing costs, are essential for economic balance?",
+      "KtoE": "글로벌 시장의 영향을 받더라도, 금리가 대출 비용을 조절해 경제 균형에 필수적이라고 볼 수 있나요?",
+      "English": "Although influenced by global markets, can we agree that interest rates, by modulating borrowing costs, are essential for economic balance?",
+      "Korean": "글로벌 시장의 영향을 받더라도, 금리가 대출 비용을 조절해 경제 균형에 필수적이라고 생각하나요?"
+    },
+    {
+      "topic": "economy/politics",
+      "type": "opinion",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "I think lower interest rates boost economic activity.",
+      "KtoE": "저는 낮은 금리가 경제 활동을 촉진한다고 생각한다.",
+      "English": "I think lower interest rates boost economic activity.",
+      "Korean": "저는 낮은 금리가 경제 활동을 촉진한다고 생각한다."
+    },
+    {
+      "topic": "economy/politics",
+      "type": "opinion",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "I feel that maintaining moderate interest rates fosters sustainable growth and investment.",
+      "KtoE": "저는 적정 금리 유지가 지속 가능한 성장과 투자를 촉진한다고 느낀다.",
+      "English": "I feel that maintaining moderate interest rates fosters sustainable growth and investment.",
+      "Korean": "저는 적정 금리 유지가 지속 가능한 성장과 투자를 촉진한다고 느낀다."
+    },
+    {
+      "topic": "economy/politics",
+      "type": "opinion",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Although debates persist, I believe balanced interest rates enhance economic resilience.",
+      "KtoE": "논란에도 불구하고, 균형 잡힌 금리가 경제 회복력에 기여한다고 본다.",
+      "English": "Although debates persist, I believe balanced interest rates enhance economic resilience.",
+      "Korean": "논란이 있더라도, 균형 잡힌 금리가 경제 회복력에 크게 기여한다고 생각한다."
+    },
+    {
+      "topic": "economy/politics",
+      "type": "opinion",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Even though fiscal policies are multifaceted, I argue that well-set interest rates, by influencing credit and investment, underpin a robust economy.",
+      "KtoE": "재정 정책이 복합적이지만, 신중히 설정된 금리가 신용과 투자를 좌우해 견고한 경제를 뒷받침한다고 주장한다.",
+      "English": "Even though fiscal policies are multifaceted, I argue that well-set interest rates, by influencing credit and investment, underpin a robust economy.",
+      "Korean": "재정 정책이 다면적이더라도, 신중하게 설정된 금리가 신용과 투자에 영향을 미쳐 견고한 경제를 뒷받침한다고 주장한다."
+    },
+    {
+      "topic": "art",
+      "type": "fact",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "Starry Night is a famous 그림 by van Gogh.",
+      "KtoE": "Starry Night는 van Gogh의 유명한 그림이다.",
+      "English": "Starry Night is a famous painting by van Gogh.",
+      "Korean": "Starry Night는 반 고흐의 유명한 그림이다."
+    },
+    {
+      "topic": "art",
+      "type": "fact",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "Starry Night, created in 1889, is celebrated for its swirling sky.",
+      "KtoE": "1889년에 제작된 Starry Night는 swirling sky로 유명하다.",
+      "English": "Starry Night, created in 1889, is celebrated for its swirling sky.",
+      "Korean": "1889년에 제작된 Starry Night는 소용돌이치는 하늘로 유명하다."
+    },
+    {
+      "topic": "art",
+      "type": "fact",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Because it evokes emotion through bold strokes, Starry Night captivates art lovers.",
+      "KtoE": "대담한 붓놀림으로 감정을 자극해, Starry Night는 art lovers를 사로잡는다.",
+      "English": "Because it evokes emotion through bold strokes, Starry Night captivates art lovers.",
+      "Korean": "대담한 붓놀림으로 감정을 불러일으켜, Starry Night는 예술 애호가를 사로잡는다."
+    },
+    {
+      "topic": "art",
+      "type": "fact",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Although interpretations vary, Starry Night, with vivid colors and dynamic composition, inspires creative minds.",
+      "KtoE": "해석은 다양하지만, Starry Night는 생생한 색채와 역동적인 구도로 창의력을 자극한다.",
+      "English": "Although interpretations vary, Starry Night, with vivid colors and dynamic composition, inspires creative minds.",
+      "Korean": "해석은 다양하지만, Starry Night는 생생한 색채와 역동적인 구도로 창의적인 영감을 준다."
+    },
+    {
+      "topic": "art",
+      "type": "question",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "Is Starry Night painted by van Gogh?",
+      "KtoE": "Starry Night가 van Gogh에 의해 그려졌나요?",
+      "English": "Is Starry Night painted by van Gogh?",
+      "Korean": "Starry Night는 반 고흐에 의해 그려졌나요?"
+    },
+    {
+      "topic": "art",
+      "type": "question",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "Can you confirm that Starry Night, a renowned work from 1889, is by van Gogh?",
+      "KtoE": "1889년의 유명한 작품인 Starry Night가 van Gogh의 것이라는 것을 확인할 수 있나요?",
+      "English": "Can you confirm that Starry Night, a renowned work from 1889, is by van Gogh?",
+      "Korean": "1889년의 유명한 작품인 Starry Night가 반 고흐의 작품이라는 것을 확인할 수 있나요?"
+    },
+    {
+      "topic": "art",
+      "type": "question",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Since its style is unique, do you think Starry Night revolutionized post-impressionism?",
+      "KtoE": "스타일이 독특해, Starry Night가 post-impressionism에 혁신을 가져왔다고 보나요?",
+      "English": "Since its style is unique, do you think Starry Night revolutionized post-impressionism?",
+      "Korean": "스타일이 독특하기에, Starry Night가 후기 인상주의에 혁신을 가져왔다고 보나요?"
+    },
+    {
+      "topic": "art",
+      "type": "question",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Although art critics debate its meaning, can we agree that Starry Night, with innovative techniques, redefined modern art?",
+      "KtoE": "비평가들이 의미를 두고 논쟁하지만, Starry Night가 혁신적인 기법으로 modern art를 재정의했다고 볼 수 있나요?",
+      "English": "Although art critics debate its meaning, can we agree that Starry Night, with innovative techniques, redefined modern art?",
+      "Korean": "비평가들이 의미를 두고 논쟁하지만, Starry Night가 혁신적인 기법으로 현대 미술을 재정의했다고 볼 수 있나요?"
+    },
+    {
+      "topic": "art",
+      "type": "opinion",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "I think Starry Night is truly mesmerizing.",
+      "KtoE": "저는 Starry Night가 truly mesmerizing하다고 생각한다.",
+      "English": "I think Starry Night is truly mesmerizing.",
+      "Korean": "저는 Starry Night가 정말 매혹적이라고 생각한다."
+    },
+    {
+      "topic": "art",
+      "type": "opinion",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "I feel that Starry Night, with its dreamy aura, evokes deep emotion.",
+      "KtoE": "저는 Starry Night가 dreamy aura로 깊은 감정을 불러일으킨다고 느낀다.",
+      "English": "I feel that Starry Night, with its dreamy aura, evokes deep emotion.",
+      "Korean": "저는 Starry Night가 몽환적인 분위기로 깊은 감정을 불러일으킨다고 느낀다."
+    },
+    {
+      "topic": "art",
+      "type": "opinion",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Although artistic tastes vary, I believe Starry Night remains an icon of creative expression.",
+      "KtoE": "예술 취향은 다르지만, Starry Night는 creative expression의 아이콘이라고 본다.",
+      "English": "Although artistic tastes vary, I believe Starry Night remains an icon of creative expression.",
+      "Korean": "예술 취향은 다양하지만, Starry Night는 창의적 표현의 아이콘이라고 생각한다."
+    },
+    {
+      "topic": "art",
+      "type": "opinion",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Even if interpretations differ, I argue that Starry Night, with its vibrant and unconventional style, continues to influence artists worldwide.",
+      "KtoE": "해석이 다르더라도, Starry Night의 vibrant하고 unconventional한 스타일이 전 세계 예술가들에게 영향을 준다고 주장한다.",
+      "English": "Even if interpretations differ, I argue that Starry Night, with its vibrant and unconventional style, continues to influence artists worldwide.",
+      "Korean": "해석이 다르더라도, Starry Night는 생생하고 비전통적인 스타일로 전 세계 예술가들에게 계속해서 영향을 미친다고 주장한다."
+    },
+    {
+      "topic": "geography",
+      "type": "fact",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "Tokyo is a major 도시 in Japan.",
+      "KtoE": "도쿄는 Japan의 주요 도시이다.",
+      "English": "Tokyo is a major city in Japan.",
+      "Korean": "도쿄는 일본의 주요 도시이다."
+    },
+    {
+      "topic": "geography",
+      "type": "fact",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "Tokyo, known for its modern vibe, is a bustling urban center in Japan.",
+      "KtoE": "Modern함으로 유명한 도쿄는 Japan의 번화한 도시 중심지이다.",
+      "English": "Tokyo, known for its modern vibe, is a bustling urban center in Japan.",
+      "Korean": "도쿄는 현대적 분위기로 유명하며 일본의 번화한 도시 중심지이다."
+    },
+    {
+      "topic": "geography",
+      "type": "fact",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Because it blends tradition and modernity, Tokyo attracts millions of visitors annually.",
+      "KtoE": "전통과 modernity가 어우러져, 도쿄는 매년 수백만 명의 방문객을 끌어들인다.",
+      "English": "Because it blends tradition and modernity, Tokyo attracts millions of visitors annually.",
+      "Korean": "전통과 현대가 어우러져, 도쿄는 매년 수백만 명의 방문객을 끌어들인다."
+    },
+    {
+      "topic": "geography",
+      "type": "fact",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Although its urban sprawl is vast, Tokyo, balancing modern infrastructure with historic areas, remains Japan's vibrant capital.",
+      "KtoE": "광대한 도시 확장이 있지만, 도쿄는 modern infrastructure와 historic 지역의 조화로 Japan의 vibrant capital로 남는다.",
+      "English": "Although its urban sprawl is vast, Tokyo, balancing modern infrastructure with historic areas, remains Japan's vibrant capital.",
+      "Korean": "광대한 도시 확장이 있지만, 도쿄는 현대적 인프라와 역사적 구역의 조화를 이루며 일본의 활기찬 수도로 남는다."
+    },
+    {
+      "topic": "geography",
+      "type": "question",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "Is Tokyo the capital of Japan?",
+      "KtoE": "도쿄가 Japan의 수도인가요?",
+      "English": "Is Tokyo the capital of Japan?",
+      "Korean": "도쿄가 일본의 수도인가요?"
+    },
+    {
+      "topic": "geography",
+      "type": "question",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "Can you confirm that Tokyo, famed for its modernity, is Japan's capital?",
+      "KtoE": "현대적임으로 유명한 도쿄가 Japan의 수도라는 것을 확인할 수 있나요?",
+      "English": "Can you confirm that Tokyo, famed for its modernity, is Japan's capital?",
+      "Korean": "현대적임으로 유명한 도쿄가 일본의 수도라는 것을 확인할 수 있나요?"
+    },
+    {
+      "topic": "geography",
+      "type": "question",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Since it merges tradition with modernity, do you think Tokyo exemplifies Japan's dynamic spirit?",
+      "KtoE": "전통과 modernity가 어우러져, 도쿄가 Japan의 dynamic spirit을 잘 보여준다고 보나요?",
+      "English": "Since it merges tradition with modernity, do you think Tokyo exemplifies Japan's dynamic spirit?",
+      "Korean": "전통과 현대가 어우러져, 도쿄가 일본의 역동적인 정신을 잘 보여준다고 생각하나요?"
+    },
+    {
+      "topic": "geography",
+      "type": "question",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Although opinions may differ, can we agree that Tokyo, with its mix of historic charm and modern innovation, epitomizes Japan's urban evolution?",
+      "KtoE": "의견이 다르더라도, 도쿄가 historic charm과 cutting-edge innovation을 조화롭게 보여주어 Japan의 urban evolution을 상징한다고 볼 수 있나요?",
+      "English": "Although opinions may differ, can we agree that Tokyo, with its mix of historic charm and modern innovation, epitomizes Japan's urban evolution?",
+      "Korean": "의견이 다르더라도, 도쿄가 역사적 매력과 현대적 혁신을 조화롭게 보여주어 일본 도시 발전의 전형이라고 볼 수 있나요?"
+    },
+    {
+      "topic": "geography",
+      "type": "opinion",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "I believe Tokyo is an exciting metropolis.",
+      "KtoE": "저는 도쿄가 exciting한 대도시라고 생각한다.",
+      "English": "I believe Tokyo is an exciting metropolis.",
+      "Korean": "저는 도쿄가 흥미로운 대도시라고 생각한다."
+    },
+    {
+      "topic": "geography",
+      "type": "opinion",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "I feel that Tokyo's blend of ancient culture and modern flair creates a unique urban vibe.",
+      "KtoE": "저는 도쿄의 ancient 문화와 modern 감각의 조화가 독특한 도시 분위기를 만든다고 느낀다.",
+      "English": "I feel that Tokyo's blend of ancient culture and modern flair creates a unique urban vibe.",
+      "Korean": "저는 도쿄의 고대 문화와 현대적 감각의 조화가 독특한 도시 분위기를 만든다고 느낀다."
+    },
+    {
+      "topic": "geography",
+      "type": "opinion",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Although many cities impress, I believe Tokyo stands out for its dynamic cultural fusion.",
+      "KtoE": "많은 도시들이 인상적이지만, 도쿄는 dynamic한 문화 융합으로 돋보인다고 생각한다.",
+      "English": "Although many cities impress, I believe Tokyo stands out for its dynamic cultural fusion.",
+      "Korean": "많은 도시들이 인상적이지만, 도쿄는 역동적인 문화 융합으로 돋보인다고 생각한다."
+    },
+    {
+      "topic": "geography",
+      "type": "opinion",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Even if critics debate urban design, I argue that Tokyo, merging tradition with futuristic elements, epitomizes modern urban charm.",
+      "KtoE": "비평가들이 도시 디자인을 두고 논쟁하더라도, 도쿄가 tradition과 futuristic 요소를 결합해 modern urban charm을 보여준다고 주장한다.",
+      "English": "Even if critics debate urban design, I argue that Tokyo, merging tradition with futuristic elements, epitomizes modern urban charm.",
+      "Korean": "비평가들이 도시 디자인에 대해 논쟁하더라도, 도쿄는 전통과 미래적 요소를 결합해 현대 도시의 매력을 대표한다고 주장한다."
+    },
+    {
+      "topic": "sports",
+      "type": "fact",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "Basketball is a popular sport worldwide.",
+      "KtoE": "농구는 전 세계에서 인기 있는 스포츠이다.",
+      "English": "Basketball is a popular sport worldwide.",
+      "Korean": "농구는 전 세계에서 인기 있는 스포츠이다."
+    },
+    {
+      "topic": "sports",
+      "type": "fact",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "Basketball, played on a court, is known for its fast pace and high scoring.",
+      "KtoE": "코트에서 진행되는 농구는 빠른 속도와 높은 득점으로 유명하다.",
+      "English": "Basketball, played on a court, is known for its fast pace and high scoring.",
+      "Korean": "농구는 코트에서 진행되며 빠른 속도와 높은 득점으로 유명하다."
+    },
+    {
+      "topic": "sports",
+      "type": "fact",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Because it combines skill and teamwork, basketball unites players from diverse backgrounds.",
+      "KtoE": "기술과 teamwork을 결합해, 농구는 다양한 배경의 선수들을 하나로 모은다.",
+      "English": "Because it combines skill and teamwork, basketball unites players from diverse backgrounds.",
+      "Korean": "농구는 기술과 팀워크를 결합하여 다양한 배경의 선수들을 하나로 모은다."
+    },
+    {
+      "topic": "sports",
+      "type": "fact",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Although strategies vary, basketball, requiring agility and precision, consistently showcases the beauty of collaborative sport.",
+      "KtoE": "전략은 다양하지만, 민첩성과 정확성이 요구되는 농구는 협동 스포츠의 아름다움을 보여준다.",
+      "English": "Although strategies vary, basketball, requiring agility and precision, consistently showcases the beauty of collaborative sport.",
+      "Korean": "전략은 다양하지만, 민첩성과 정확성이 요구되는 농구는 협동 스포츠의 아름다움을 일관되게 보여준다."
+    },
+    {
+      "topic": "sports",
+      "type": "question",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "Is basketball played on a standard court?",
+      "KtoE": "농구가 표준 코트에서 진행되나요?",
+      "English": "Is basketball played on a standard court?",
+      "Korean": "농구는 표준 코트에서 진행되나요?"
+    },
+    {
+      "topic": "sports",
+      "type": "question",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "Can you confirm that basketball, with fixed court dimensions, is popular globally?",
+      "KtoE": "정해진 코트 규격을 가진 농구가 전 세계적으로 인기 있다는 것을 확인할 수 있나요?",
+      "English": "Can you confirm that basketball, with fixed court dimensions, is popular globally?",
+      "Korean": "정해진 코트 규격을 가진 농구가 전 세계적으로 인기 있다는 것을 확인할 수 있나요?"
+    },
+    {
+      "topic": "sports",
+      "type": "question",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Since it demands speed and strategy, do you think basketball improves athletic coordination?",
+      "KtoE": "빠른 속도와 strategy가 요구되어, 농구가 운동 조정을 향상시킨다고 생각하나요?",
+      "English": "Since it demands speed and strategy, do you think basketball improves athletic coordination?",
+      "Korean": "빠른 속도와 전략이 요구되므로, 농구가 운동 조정을 향상시킨다고 생각하나요?"
+    },
+    {
+      "topic": "sports",
+      "type": "question",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Although rules vary across leagues, can we agree that basketball, emphasizing teamwork and precision, boosts overall athletic performance?",
+      "KtoE": "리그마다 규칙이 다르지만, 농구가 teamwork과 precision을 강조해 전반적인 운동 능력을 향상시킨다고 볼 수 있나요?",
+      "English": "Although rules vary across leagues, can we agree that basketball, emphasizing teamwork and precision, boosts overall athletic performance?",
+      "Korean": "리그마다 규칙이 약간 다르더라도, 농구가 팀워크와 정밀함을 강조해 전반적인 운동 능력을 향상시킨다고 생각하나요?"
+    },
+    {
+      "topic": "sports",
+      "type": "opinion",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "I think basketball is very exciting.",
+      "KtoE": "저는 농구가 매우 exciting하다고 생각한다.",
+      "English": "I think basketball is very exciting.",
+      "Korean": "저는 농구가 매우 흥미롭다고 생각한다."
+    },
+    {
+      "topic": "sports",
+      "type": "opinion",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "I feel that basketball, with its fast breaks and slam dunks, captivates fans globally.",
+      "KtoE": "저는 농구의 fast breaks와 slam dunks가 전 세계 팬들을 매료시킨다고 느낀다.",
+      "English": "I feel that basketball, with its fast breaks and slam dunks, captivates fans globally.",
+      "Korean": "저는 농구의 빠른 돌파와 슬램덩크가 전 세계 팬들을 매료시킨다고 느낀다."
+    },
+    {
+      "topic": "sports",
+      "type": "opinion",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Although many sports are impressive, I believe basketball uniquely blends athleticism and strategy.",
+      "KtoE": "다른 스포츠도 인상적이지만, 농구는 athleticism과 strategy를 독특하게 결합한다고 생각한다.",
+      "English": "Although many sports are impressive, I believe basketball uniquely blends athleticism and strategy.",
+      "Korean": "다른 스포츠도 있지만, 농구는 독특하게 운동 능력과 전략을 결합한다고 생각한다."
+    },
+    {
+      "topic": "sports",
+      "type": "opinion",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Even if some prefer individual sports, I argue that basketball, through its collaborative play and dynamic tactics, exemplifies team excellence.",
+      "KtoE": "개인 스포츠를 선호하더라도, 농구는 협동 경기와 dynamic tactics로 팀 우수성을 보여준다고 주장한다.",
+      "English": "Even if some prefer individual sports, I argue that basketball, through its collaborative play and dynamic tactics, exemplifies team excellence.",
+      "Korean": "개인 스포츠를 선호하는 이들도 있지만, 농구는 협동 경기와 역동적인 전술로 팀 우수성의 모범이라고 주장한다."
+    }
+  ]  

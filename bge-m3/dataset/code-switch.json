@@ -1,0 +1,608 @@
+[
+  {
+    "EtoK": "Could you explain how 양자 컴퓨팅 and 양자 얽힘 make it possible to solve certain problems faster than classical methods?",
+    "KtoE": "고전적 방식보다 더 효율적인 quantum computing과 quantum entanglement의 핵심 원리는 무엇인가요?",
+    "English": "Could you explain how quantum computing and quantum entanglement make it possible to solve certain problems faster than classical methods?",
+    "Korean": "양자 컴퓨팅과 양자 얽힘이 일부 문제를 고전적 방법보다 더 빠르게 해결하도록 만드는 핵심 원리는 무엇인가요?"
+  },
+  {
+    "EtoK": "Can you describe how 생성적 적대 신경망 uses both a 생성기 and a 판별기 to produce realistic images?",
+    "KtoE": "GAN이 generator와 discriminator를 동시에 활용해 사실적인 이미지를 만들어 내는 과정을 설명해 주실 수 있나요?",
+    "English": "Can you describe how Generative Adversarial Networks use both a generator and a discriminator to produce realistic images?",
+    "Korean": "생성적 적대 신경망은 생성기와 판별기를 어떻게 활용하여 사실적인 이미지를 생성하나요?"
+  },
+  {
+    "EtoK": "Could you explain how 자가 치유 소재 with embedded 촉매 물질 can automatically repair cracks?",
+    "KtoE": "Self-healing materials이 내부에 포함된 catalyst agent를 통해 균열을 자동으로 복구하는 원리는 무엇인가요?",
+    "English": "Could you explain how self-healing materials with embedded catalysts can automatically repair cracks?",
+    "Korean": "자가 치유 소재가 내부에 담긴 촉매 물질을 활용해 균열을 자동으로 복구하는 방식은 무엇인가요?"
+  },
+  {
+    "EtoK": "How does a 뇌-컴퓨터 인터페이스 decode 뉴런 신호 and translate them into machine commands?",
+    "KtoE": "BCI가 neural signals을 해석해 기기를 제어하는 명령으로 변환하는 과정은 어떻게 이루어지나요?",
+    "English": "How does a brain-computer interface decode neural signals and translate them into machine commands?",
+    "Korean": "뇌-컴퓨터 인터페이스는 뉴런 신호를 어떻게 해석하여 기기 제어 명령으로 바꾸나요?"
+  },
+  {
+    "EtoK": "In what ways does 혼합 현실 leverage 컴퓨터 비전 to overlay digital objects onto the physical world?",
+    "KtoE": "Mixed reality가 computer vision 기술을 사용해 물리 세계 위에 디지털 오브젝트를 겹쳐 보이게 하는 방식은 무엇인가요?",
+    "English": "In what ways does mixed reality leverage computer vision to overlay digital objects onto the physical world?",
+    "Korean": "혼합 현실이 컴퓨터 비전 기술을 이용해 실제 환경 위에 디지털 객체를 겹쳐 보이게 하는 방법은 무엇인가요?"
+  },
+  {
+    "EtoK": "Could you explain how 나노 로봇 and 자기장 조작 can deliver drugs to specific cells?",
+    "KtoE": "Nanorobotics와 magnetic control을 활용해 특정 세포에 약물을 운반하는 원리는 무엇인가요?",
+    "English": "Could you explain how nanorobotics and magnetic control can deliver drugs to specific cells?",
+    "Korean": "나노 로봇과 자기장 조작을 통해 특정 세포로 약물을 전달하는 원리는 무엇인가요?"
+  },
+  {
+    "EtoK": "How does 초고성능 컴퓨팅 handle massive 병렬 처리 to achieve exascale performance?",
+    "KtoE": "Exascale computing에서 요구되는 엄청난 연산량을 처리하기 위해 parallel processing은 어떻게 구현되나요?",
+    "English": "How does exascale computing handle massive parallel processing to achieve high performance?",
+    "Korean": "초고성능 컴퓨팅이 방대한 병렬 처리를 통해 높은 연산 성능을 달성하는 방식은 무엇인가요?"
+  },
+  {
+    "EtoK": "Could you discuss how 블록체인 and 합의 알고리즘 safeguard data in a decentralized network?",
+    "KtoE": "분산 네트워크에서 데이터를 보호하기 위해 blockchain과 consensus algorithm이 활용되는 방식은 무엇인가요?",
+    "English": "Could you discuss how blockchain and consensus algorithms safeguard data in a decentralized network?",
+    "Korean": "블록체인과 합의 알고리즘이 분산 네트워크에서 데이터를 안전하게 보호하는 원리는 무엇인가요?"
+  },
+  {
+    "EtoK": "How does 자율주행 use 센서 융합 and machine learning to navigate complex roads?",
+    "KtoE": "복잡한 도로 환경을 주행하기 위해 autonomous driving 기술이 sensor fusion과 머신 러닝을 어떻게 활용하나요?",
+    "English": "How does autonomous driving use sensor fusion and machine learning to navigate complex roads?",
+    "Korean": "자율주행 시스템은 센서 융합과 머신 러닝을 통해 복잡한 도로 상황을 어떻게 주행하나요?"
+  },
+  {
+    "EtoK": "Could you explain how 신경 모방 컴퓨팅 and 스파이킹 뉴런 improve energy efficiency in data processing?",
+    "KtoE": "데이터 처리 효율을 높이기 위해 neuromorphic computing이 spiking neurons을 활용하는 이유는 무엇인가요?",
+    "English": "Could you explain how neuromorphic computing and spiking neurons improve energy efficiency in data processing?",
+    "Korean": "신경 모방 컴퓨팅이 스파이킹 뉴런을 통해 데이터 처리의 에너지 효율을 어떻게 향상시키나요?"
+  },
+  {
+    "EtoK": "What advantages do organizations gain by adopting 클라우드 컴퓨팅 with 서버리스 아키텍처?",
+    "KtoE": "기업에서 cloud computing을 도입할 때 serverless architecture가 제공하는 주요 이점은 무엇인가요?",
+    "English": "What advantages do organizations gain by adopting cloud computing with a serverless architecture?",
+    "Korean": "기업이 클라우드 컴퓨팅을 도입하며 서버리스 아키텍처를 활용할 때 얻는 주요 이점은 무엇인가요?"
+  },
+  {
+    "EtoK": "How do 사물 인터넷 devices utilize 엣지 분석 to reduce latency and network load?",
+    "KtoE": "지연 시간과 네트워크 부하를 줄이기 위해 IoT 기기가 edge analytics를 도입하는 방식은 무엇인가요?",
+    "English": "How do IoT devices utilize edge analytics to reduce latency and network load?",
+    "Korean": "사물 인터넷 기기가 엣지 분석을 통해 지연 시간과 네트워크 부하를 줄이는 방식은 무엇인가요?"
+  },
+  {
+    "EtoK": "In what ways does 양자 암호 use 단일 광자 전송 to achieve theoretically unbreakable security?",
+    "KtoE": "Quantum cryptography가 single-photon transmission을 통해 사실상 해킹이 불가능한 보안을 구현하는 이유는 무엇인가요?",
+    "English": "In what ways does quantum cryptography use single-photon transmission to achieve theoretically unbreakable security?",
+    "Korean": "양자 암호가 단일 광자 전송을 활용하여 이론적으로 해킹이 불가능한 보안을 구현하는 방식은 무엇인가요?"
+  },
+  {
+    "EtoK": "Could you explain how 그래핀 전자 components and 2차원 소재 enable flexible, high-speed circuits?",
+    "KtoE": "플렉시블이면서도 고속 동작이 가능한 회로를 만들기 위해 graphene electronics와 다른 2D materials가 어떤 역할을 하나요?",
+    "English": "Could you explain how graphene electronics and other 2D materials enable flexible, high-speed circuits?",
+    "Korean": "그래핀 전자 부품과 2차원 소재가 어떻게 유연하면서도 고속으로 작동하는 회로를 가능하게 하는지 설명해 주실 수 있나요?"
+  },
+  {
+    "EtoK": "How has 3D 프린팅 evolved with 다중 재료 공정 to produce complex prototypes?",
+    "KtoE": "복잡한 시제품을 만들기 위해 3D printing에서 multi-material process가 어떻게 발전해 왔나요?",
+    "English": "How has 3D printing evolved with multi-material processes to produce complex prototypes?",
+    "Korean": "3D 프린팅이 다중 재료 공정을 도입하면서 복잡한 시제품 제작에 어떤 변화를 가져왔나요?"
+  },
+  {
+    "EtoK": "What new possibilities does 합성 생물학 open up with DNA 회로 설계 for custom organisms?",
+    "KtoE": "맞춤형 생물체를 만드는 데 있어 synthetic biology와 DNA circuit design이 열어 주는 새로운 가능성은 무엇인가요?",
+    "English": "What new possibilities does synthetic biology open up with DNA circuit design for custom organisms?",
+    "Korean": "합성 생물학이 DNA 회로 설계를 통해 맞춤형 생물체를 구현하는 데 있어 어떤 새로운 가능성을 열어 주나요?"
+  },
+  {
+    "EtoK": "Could you discuss how DNA 데이터 저장 and 염기열 암호화 enable high-density information archiving?",
+    "KtoE": "초고밀도의 정보를 보관하기 위해 DNA data storage가 nucleotide encoding을 활용하는 방식은 무엇인가요?",
+    "English": "Could you discuss how DNA data storage and nucleotide encoding enable high-density information archiving?",
+    "Korean": "DNA 데이터 저장이 염기열 암호화를 통해 초고밀도 정보 보관을 가능하게 하는 원리는 무엇인가요?"
+  },
+  {
+    "EtoK": "In what ways do 차세대 배터리 chemistries like 리튬 황 provide higher energy densities?",
+    "KtoE": "next-gen battery 화학 중 하나인 lithium-sulfur 방식이 더 높은 에너지 밀도를 제공하는 이유는 무엇인가요?",
+    "English": "In what ways do next-gen battery chemistries like lithium-sulfur provide higher energy densities?",
+    "Korean": "차세대 배터리 화학 중 리튬 황 방식을 적용하면 어떻게 더 높은 에너지 밀도를 얻을 수 있나요?"
+  },
+  {
+    "EtoK": "Could you explain how a 디지털 트윈 uses 실시간 센서 데이터 to mirror physical assets virtually?",
+    "KtoE": "물리 자산을 가상 공간에 반영하기 위해 digital twin이 real-time sensor data를 어떻게 활용하나요?",
+    "English": "Could you explain how a digital twin uses real-time sensor data to mirror physical assets virtually?",
+    "Korean": "디지털 트윈이 실시간 센서 데이터를 활용해 물리적 자산을 가상 환경에 어떻게 반영하는지 궁금합니다."
+  },
+  {
+    "EtoK": "How does 초광대역 통신 utilize 시간차 거리측정 to achieve precise indoor positioning?",
+    "KtoE": "UWB가 time-of-flight ranging 기법을 통해 실내에서 정밀한 위치 측정을 구현하는 원리는 무엇인가요?",
+    "English": "How does ultra-wideband utilize time-of-flight ranging to achieve precise indoor positioning?",
+    "Korean": "초광대역 통신이 시간차 거리측정 방식을 통해 실내에서 높은 정확도의 위치 인식을 가능하게 하는 원리는 무엇인가요?"
+  },
+  {
+    "EtoK": "How do 군집 로봇 systems manage 분산 협업 among multiple agents for large-scale tasks?",
+    "KtoE": "여러 로봇이 거대한 작업을 수행하기 위해 swarm robotics에서 decentralized collaboration을 구현하는 방법은 무엇인가요?",
+    "English": "How do swarm robotics systems manage decentralized collaboration among multiple agents for large-scale tasks?",
+    "Korean": "군집 로봇 시스템에서 다수의 로봇이 대규모 작업을 수행하기 위해 분산 협업을 어떻게 이뤄 내나요?"
+  },
+  {
+    "EtoK": "Could you discuss how 위성 인터넷 constellations use 레이저 링크 to deliver global broadband?",
+    "KtoE": "전 세계 광대역 서비스를 제공하기 위해 satellite internet 군집이 laser inter-satellite links를 어떻게 활용하나요?",
+    "English": "Could you discuss how satellite internet constellations use laser inter-satellite links to deliver global broadband?",
+    "Korean": "위성 인터넷 군집이 레이저 링크 기술을 통해 전 세계 광대역 서비스를 제공하는 방식은 무엇인가요?"
+  },
+  {
+    "EtoK": "How can 머신 윤리 guidelines and 규범 모델 help AI make responsible decisions?",
+    "KtoE": "AI가 책임감 있는 의사결정을 내리도록 돕기 위해 machine ethics 가이드라인과 normative models는 어떤 역할을 하나요?",
+    "English": "How can machine ethics guidelines and normative models help AI make responsible decisions?",
+    "Korean": "머신 윤리 지침과 규범 모델이 인공지능이 책임감 있는 결정을 내리는 데 어떻게 기여하나요?"
+  },
+  {
+    "EtoK": "What benefits does 에지 컴퓨팅 with 로컬 데이터 처리 provide for real-time analytics?",
+    "KtoE": "실시간 분석을 위해 edge computing이 local data processing을 적용했을 때 얻는 이점은 무엇인가요?",
+    "English": "What benefits does edge computing with local data processing provide for real-time analytics?",
+    "Korean": "에지 컴퓨팅에서 로컬 데이터 처리를 도입하면 실시간 분석에 어떤 이점이 있나요?"
+  },
+  {
+    "EtoK": "Could you explain how 생체인식 uses 지문 인식 or 홍채 스캔 to verify user identity?",
+    "KtoE": "사용자 신원을 확인하기 위해 biometrics가 fingerprint recognition이나 iris scan을 어떻게 활용하나요?",
+    "English": "Could you explain how biometrics uses fingerprint recognition or iris scans to verify user identity?",
+    "Korean": "생체인식이 지문 인식이나 홍채 스캔을 통해 사용자 신원을 어떻게 검증하는지 알려주실 수 있나요?"
+  },
+  {
+    "EtoK": "How does 분산 컴퓨팅 implement 작업 스케줄링 across multiple nodes to optimize performance?",
+    "KtoE": "여러 노드에서의 성능 최적화를 위해 distributed computing이 job scheduling을 어떤 방식으로 수행하나요?",
+    "English": "How does distributed computing implement job scheduling across multiple nodes to optimize performance?",
+    "Korean": "분산 컴퓨팅이 여러 노드 간의 작업 스케줄링을 통해 성능을 최적화하는 방식은 무엇인가요?"
+  },
+  {
+    "EtoK": "In what ways do 로보어드바이저 platforms use 포트폴리오 최적화 알고리즘 to manage investments?",
+    "KtoE": "투자 관리를 위해 robo-advisor가 portfolio optimization algorithms을 활용하는 방법은 무엇인가요?",
+    "English": "In what ways do robo-advisor platforms use portfolio optimization algorithms to manage investments?",
+    "Korean": "로보어드바이저 플랫폼이 포트폴리오 최적화 알고리즘을 통해 투자를 어떻게 관리하는지 궁금합니다."
+  },
+  {
+    "EtoK": "How do GPT models leverage 사전 학습 on large datasets to generate contextually rich text?",
+    "KtoE": "대규모 데이터셋을 활용해 Generative Pre-trained Transformer가 pre-training을 통해 풍부한 맥락의 텍스트를 생성하는 방식은 무엇인가요?",
+    "English": "How do GPT models leverage pre-training on large datasets to generate contextually rich text?",
+    "Korean": "지피티 모델이 방대한 데이터셋을 활용한 사전 학습을 통해 맥락이 풍부한 텍스트를 생성하는 원리는 무엇인가요?"
+  },
+  {
+    "EtoK": "Could you detail how 홀로그래픽 텔레프레즌스 and 실시간 공간 투영 create immersive remote meetings?",
+    "KtoE": "원격 회의에서 몰입감을 높이기 위해 holographic telepresence와 real-time spatial projection이 어떻게 사용되나요?",
+    "English": "Could you detail how holographic telepresence and real-time spatial projection create immersive remote meetings?",
+    "Korean": "홀로그래픽 텔레프레즌스와 실시간 공간 투영이 몰입감 있는 원격 회의를 어떻게 구현하나요?"
+  },
+  {
+    "EtoK": "How does VR 치료 with 가상 시나리오 help patients overcome phobias or PTSD?",
+    "KtoE": "불안이나 트라우마 완화를 위해 VR therapy가 virtual scenario를 어떻게 활용하나요?",
+    "English": "How does VR therapy with virtual scenarios help patients overcome phobias or PTSD?",
+    "Korean": "VR 치료가 가상 시나리오를 이용해 공포증이나 외상 후 스트레스 장애를 어떻게 극복하도록 돕나요?"
+  },
+  {
+    "EtoK": "Could you explain how 합성 연료 and 인공 광합성 could reduce carbon emissions in the transportation sector?",
+    "KtoE": "운송 분야의 탄소 배출을 줄이기 위해 synthetic fuels와 artificial photosynthesis가 어떤 역할을 하나요?",
+    "English": "Could you explain how synthetic fuels and artificial photosynthesis could reduce carbon emissions in the transportation sector?",
+    "Korean": "합성 연료와 인공 광합성이 운송 분야에서 탄소 배출을 줄이는 데 어떻게 기여할 수 있는지 궁금합니다."
+  },
+  {
+    "EtoK": "How did 슈뢰딩거의 파동 방정식 revolutionize quantum 역학의 이해?",
+    "KtoE": "양자역학에서 Schrödinger equation이 particle behavior 해석에 어떤 기여를 했나요?",
+    "English": "How did Schrödinger's wave equation revolutionize the understanding of quantum mechanics?",
+    "Korean": "슈뢰딩거의 파동 방정식이 양자역학 이해에 어떤 혁명을 가져왔나요?"
+  },
+  {
+    "EtoK": "Analyze how 맥스 베버의 관료제 이론 influenced modern 조직 관리 systems",
+    "KtoE": "Max Weber의 bureaucracy 이론이 현대 기업 구조에 미친 영향은 무엇인가요?",
+    "English": "Analyze how Max Weber's bureaucratic theory influenced modern organizational management systems",
+    "Korean": "막스 베버의 관료제 이론이 현대 조직 관리 시스템에 어떤 영향을 미쳤나요?"
+  },
+  {
+    "EtoK": "What geopolitical factors caused 비잔틴 제국's decline in 1453?",
+    "KtoE": "1453년 비잔틴 제국 몰락의 geopolitical 배경은 무엇인가요?",
+    "English": "What geopolitical factors caused the Byzantine Empire's decline in 1453?",
+    "Korean": "1453년 비잔틴 제국 몰락의 지정학적 요인은 무엇인가요?"
+  },
+  {
+    "EtoK": "Describe how 허블 망원경 enhanced 천문학적 관측 capabilities",
+    "KtoE": "Hubble Telescope가 우주 관측 기술을 혁신시킨 방법은 무엇인가요?",
+    "English": "Describe how the Hubble Telescope enhanced astronomical observation capabilities",
+    "Korean": "허블 망원경이 천문학적 관측 능력을 향상시킨 방법은 무엇인가요?"
+  },
+  {
+    "EtoK": "How does TCP/IP 프로토콜 ensure 데이터 무결성 in network 통신?",
+    "KtoE": "네트워크 통신에서 TCP/IP protocol이 data integrity를 보장하는 원리는?",
+    "English": "How does the TCP/IP protocol ensure data integrity in network communications?",
+    "Korean": "TCP/IP 프로토콜이 네트워크 통신에서 데이터 무결성을 보장하는 방법은 무엇인가요?"
+  },
+  {
+    "EtoK": "What role did 시장 경제 원리 play in 동독 체제의 붕괴?",
+    "KtoE": "1990년 동독 체제 붕괴에서 market economy principles의 역할은 무엇인가요?",
+    "English": "What role did market economy principles play in the collapse of East Germany's regime?",
+    "Korean": "시장 경제 원리가 동독 체제 붕괴에 어떤 역할을 했나요?"
+  },
+  {
+    "EtoK": "Analyze how 프랑켄슈타인 complex manifests in modern AI 윤리 논쟁",
+    "KtoE": "현대 AI 윤리 논쟁에서 Frankenstein complex가 드러나는 사례는 무엇인가요?",
+    "English": "Analyze how the Frankenstein complex manifests in modern AI ethics debates",
+    "Korean": "프랑켄슈타인 콤플렉스가 현대 인공지능 윤리 논쟁에서 어떻게 나타나나요?"
+  },
+  {
+    "EtoK": "Explain the significance of 다윈의 진화론 in 생태학적 adaptation 연구",
+    "KtoE": "진화 생물학에서 Darwin's theory of evolution이 adaptation 연구에 주는 의미는?",
+    "English": "Explain the significance of Darwin's theory of evolution in ecological adaptation research",
+    "Korean": "다윈의 진화론이 생태학적 적응 연구에 어떤 의의를 가지나요?"
+  },
+  {
+    "EtoK": "How did 아인슈타인의 광전효과 연구 contribute to quantum theory 발전?",
+    "KtoE": "Einstein의 photoelectric effect 연구가 양자이론 발전에 기여한 바는?",
+    "English": "How did Einstein's research on the photoelectric effect contribute to the development of quantum theory?",
+    "Korean": "아인슈타인의 광전효과 연구가 양자 이론 발전에 어떤 공헌을 했나요?"
+  },
+  {
+    "EtoK": "Explain the role of 엔트로피 in 열역학 제2법칙 formulations",
+    "KtoE": "열역학 제2법칙에서 entropy 개념이 수행하는 역할은 무엇인가요?",
+    "English": "Explain the role of entropy in the formulations of the second law of thermodynamics",
+    "Korean": "엔트로피가 열역학 제2법칙 수립에서 어떤 역할을 하나요?"
+  },
+  {
+    "EtoK": "What geopolitical strategies defined 베를린 장벽 시대의 국제 관계?",
+    "KtoE": "Berlin Wall 시대의 국제정치를 형성한 geopolitical 전략은 무엇이었나요?",
+    "English": "What geopolitical strategies defined international relations during the Berlin Wall era?",
+    "Korean": "베를린 장벽 시대의 국제 관계를 정의한 지정학적 전략은 무엇인가요?"
+  },
+  {
+    "EtoK": "Describe how 양자 암호화 기술 enhances 정보 보안 systems",
+    "KtoE": "정보보안 시스템에서 quantum cryptography가 제공하는 혁신적 advantage는?",
+    "English": "Describe how quantum encryption technology enhances information security systems",
+    "Korean": "양자 암호화 기술이 정보 보안 시스템을 어떻게 강화하나요?"
+  },
+  {
+    "EtoK": "How did 마르크스의 자본론 influence 20세기 사회구조 개혁 운동?",
+    "KtoE": "20세기 사회개혁 운동에 미친 Marx의 Das Kapital 영향력을 분석해 주세요",
+    "English": "How did Marx's Das Kapital influence 20th-century social reform movements?",
+    "Korean": "마르크스의 자본론이 20세기 사회 구조 개혁 운동에 어떤 영향을 미쳤나요?"
+  },
+  {
+    "EtoK": "What biomechanical principles enable 치타의 초고속 주행 능력?",
+    "KtoE": "치타의 초고속 달리기 메커니즘을 가능하게 하는 biomechanical 원리는?",
+    "English": "What biomechanical principles enable cheetahs' ultra-high-speed running ability?",
+    "Korean": "치타의 초고속 주행 능력을 가능하게 하는 생체역학적 원리는 무엇인가요?"
+  },
+  {
+    "EtoK": "Analyze how 선거구제 개편 affects 정당 체계의 균형 변화",
+    "KtoE": "선거구 조정이 political party system의 균형에 미치는 영향을 평가해 주세요",
+    "English": "Analyze how electoral redistricting affects changes in the balance of party systems",
+    "Korean": "선거구제 개편이 정당 체계의 균형 변화에 어떻게 영향을 미치나요?"
+  },
+  {
+    "EtoK": "Explain the significance of 표류설 in understanding 대륙 이동 메커니즘",
+    "KtoE": "대륙 이동 이론 연구에서 continental drift 가설이 지닌 중요성을 설명하세요",
+    "English": "Explain the significance of continental drift theory in understanding plate tectonics",
+    "Korean": "대륙 이동 메커니즘 이해에서 표류설의 중요성은 무엇인가요?"
+  },
+  {
+    "EtoK": "What cognitive biases affect 투자 결정-making in behavioral 경제학?",
+    "KtoE": "행동경제학에서 투자 판단을 왜곡하는 cognitive 편향 사례를 들어 설명해 주세요",
+    "English": "What cognitive biases affect investment decision-making in behavioral economics?",
+    "Korean": "행동 경제학에서 투자 결정에 영향을 주는 인지적 편향은 무엇인가요?"
+  },
+  {
+    "EtoK": "Japan의 花見는 spring의 대표적인 tradition이에요. Tokyo의 上野公園에서 가장 popular한 お花見スポット는 어디인가요?",
+    "KtoE": "일본의 花見는 spring의 대표적인 tradition입니다. 東京의 上野公園에서 가장 인기 있는 お花見スポット은 where인가요?",
+    "English": "Hanami is a quintessential spring tradition in Japan. Where is the most popular cherry blossom viewing spot in Tokyo's Ueno Park?",
+    "Korean": "일본의 하나미는 봄의 대표적인 전통입니다. 도쿄의 우에노 공원에서 가장 인기 있는 벚꽃 구경 장소는 어디인가요?"
+  },
+  {
+    "EtoK": "Spain의 La Tomatina festival은 Buñol에서 열리는 unique한 event예요. 이 祭典에서 사용되는 tomates의 양은 얼마인가요?",
+    "KtoE": "스페인 Buñol의 La Tomatina 祭典은 독특한 event입니다. 이 festival에서 사용되는 tomates의 cantidad는 how much인가요?",
+    "English": "La Tomatina festival is a unique event held in Buñol, Spain. How many tomatoes are used in this festival?",
+    "Korean": "스페인 부뇰의 라 토마티나 축제는 독특한 행사입니다. 이 축제에서 사용되는 토마토의 양은 얼마인가요?"
+  },
+  {
+    "EtoK": "India의 दीपावली festival은 '빛의 祭典'로 알려져 있어요. 이 祝祭 기간 동안 가장 popular한 मिठाई는 무엇인가요?",
+    "KtoE": "인도의 दीपावली 祭典은 'Festival of Lights'로 유명합니다. 이 celebration 동안 가장 인기 있는 मिठाई는 what인가요?",
+    "English": "India's Diwali festival is known as the 'Festival of Lights'. What is the most popular sweet dish during this celebration?",
+    "Korean": "인도의 디왈리 축제는 '빛의 축제'로 유명합니다. 이 축제 기간 동안 가장 인기 있는 단 음식은 무엇인가요?"
+  },
+  {
+    "EtoK": "Brazil의 Carnival in Rio는 세계적으로 famous해요. 이 祭典의 highlight인 Sambódromo parade는 quantos dias 동안 진행되나요?",
+    "KtoE": "브라질의 Rio Carnival은 globally 유명합니다. 이 festival의 하이라이트인 Sambódromo desfile은 how many dias 동안 열리나요?",
+    "English": "Brazil's Carnival in Rio is famous worldwide. For how many days does the highlight event, the Sambódromo parade, last?",
+    "Korean": "브라질의 리우 카니발은 세계적으로 유명합니다. 이 축제의 하이라이트인 삼보드로모 퍼레이드는 며칠 동안 열리나요?"
+  },
+  {
+    "EtoK": "Egypt의 رمضان 기간 동안 소비되는 كنافة 디저트의 main 재료는 무엇인가요?",
+    "KtoE": "이집트의 رمضان 기간 동안 먹는 كنافة 디저트의 주요 재료는 what인가요?",
+    "English": "What are the main ingredients of kunafa, a traditional dessert eaten during Ramadan in Egypt?",
+    "Korean": "이집트의 라마단 기간 동안 먹는 전통 디저트인 쿠나파의 주요 재료는 무엇인가요?"
+  },
+  {
+    "EtoK": "Germany의 Oktoberfest에서 가장 popular한 Bier 종류는 무엇인가요? 이 festival의 연간 Besucherzahl은 얼마나 되나요?",
+    "KtoE": "독일의 Oktoberfest에서 가장 인기 있는 Bier type은 what인가요? 이 festival의 jährliche Besucher 수는 how many인가요?",
+    "English": "What is the most popular type of beer at Germany's Oktoberfest? How many annual visitors does this festival attract?",
+    "Korean": "독일의 옥토버페스트에서 가장 인기 있는 맥주 종류는 무엇인가요? 이 축제의 연간 방문객 수는 얼마나 되나요?"
+  },
+  {
+    "EtoK": "Japan의 相撲 경기에서 横綱의 의미는 무엇인가요? 현재 active한 横綱 선수는 몇 명인가요?",
+    "KtoE": "일본의 相撲에서 横綱의 의미는 what인가요? 현재 활동 중인 横綱 선수는 how many인가요?",
+    "English": "What is the meaning of yokozuna in Japanese sumo? How many active yokozuna wrestlers are there currently?",
+    "Korean": "일본의 스모 경기에서 요코즈나의 의미는 무엇인가요? 현재 활동 중인 요코즈나 선수는 몇 명인가요?"
+  },
+  {
+    "EtoK": "Argentina의 asado는 traditional barbecue culture예요. 이 요리에서 가장 중요한 corte de carne는 무엇인가요?",
+    "KtoE": "아르헨티나의 asado는 전통적인 asado 문화입니다. 이 cuisine에서 가장 essential한 고기 부위는 what인가요?",
+    "English": "Argentina's asado is a traditional barbecue culture. What is the most essential meat cut in this cuisine?",
+    "Korean": "아르헨티나의 아사도는 전통적인 바비큐 문화입니다. 이 요리에서 가장 중요한 고기 부위는 무엇인가요?"
+  },
+  {
+    "EtoK": "Germany의 Oktoberfest에서 가장 popular한 Tracht 스타일은 무엇인가요?",
+    "KtoE": "독일의 Oktoberfest에서 가장 인기 있는 Tracht style은 what인가요?",
+    "English": "What is the most popular Tracht style at Germany's Oktoberfest?",
+    "Korean": "독일의 옥토버페스트에서 가장 인기 있는 트라흐트 스타일은 무엇인가요?"
+  },
+  {
+    "EtoK": "South Korea의 한글날은 어떤 historical event를 기념하는 holiday인가요?",
+    "KtoE": "한국의 한글날은 어떤 역사적 사건을 commemorate하는 공휴일인가요?",
+    "English": "What historical event does South Korea's Hangul Day commemorate?",
+    "Korean": "한국의 한글날은 어떤 역사적 사건을 기념하는 공휴일인가요?"
+  },
+  {
+    "EtoK": "Australia의 Aboriginal art에서 자주 사용되는 색상들의 symbolic meaning은 무엇인가요?",
+    "KtoE": "호주 원주민 미술에서 자주 사용되는 색상들의 상징적 의미는 what인가요?",
+    "English": "What are the symbolic meanings of colors frequently used in Australian Aboriginal art?",
+    "Korean": "호주 원주민 미술에서 자주 사용되는 색상들의 상징적 의미는 무엇인가요?"
+  },
+  {
+    "EtoK": "Russia의 Большой театр는 world-renowned ballet company로 유명해요. 이 theater에서 가장 popular한 performance는 무엇인가요?",
+    "KtoE": "러시아의 Большой театр는 world-renowned ballet company로 알려져 있습니다. 이 극장의 가장 인기 있는 performance는 what인가요?",
+    "English": "Russia's Bolshoi Theatre is famous for its world-renowned ballet company. What is the most popular performance at this theater?",
+    "Korean": "러시아의 볼쇼이 극장은 세계적으로 유명한 발레 단체입니다. 이 극장의 가장 인기 있는 공연은 무엇인가요?"
+  },
+  {
+    "EtoK": "Morocco의 ‪مينت تي‬는 hospitality의 symbol이에요. 이 tea 준비에 사용되는 traditional ‪طريقة‬는 무엇인가요?",
+    "KtoE": "모로코의 ‪مينت تي‬는 hospitality의 상징입니다. 이 차를 prepare할 때 사용되는 전통 ‪طريقة‬는 what인가요?",
+    "English": "Morocco's Mint Tea is a symbol of hospitality. What is the traditional method used to prepare this tea?",
+    "Korean": "모로코의 민트 차는 환대의 상징입니다. 이 차를 준비할 때 사용되는 전통적인 방법은 무엇인가요?"
+  },
+  {
+    "EtoK": "Peru의 Inti Raymi festival은 Inca ‪Inti‬를 기리는 행사예요. 가장 중요한 ‪haywarisqa‬는 무엇인가요?",
+    "KtoE": "페루의 Inti Raymi 축제는 잉카 ‪Inti‬를 honor하는 celebration입니다. 가장 important한 ‪haywarisqa‬는 what인가요?",
+    "English": "Peru's Inti Raymi festival is a celebration honoring the Inca sun god Inti. What is the most important ritual in this festival?",
+    "Korean": "페루의 인티 라이미 축제는 잉카 태양신 인티를 기리는 축제입니다. 이 축제에서 가장 중요한 의식은 무엇인가요?"
+  },
+  {
+    "EtoK": "Brazil의 ‪Capoeira‬는 ‪martial arts‬와 ‪dança‬를 결합한 전통 ‪jogo‬예요. 이 ‪arte‬의 ‪origem‬은 어디인가요?",
+    "KtoE": "브라질의 ‪Capoeira‬는 ‪martial arts‬와 dance를 combine한 전통 ‪jogo‬입니다. 이 ‪arte‬의 기원은 where인가요?",
+    "English": "Brazil's Capoeira is a traditional art form combining martial arts and dance. What is the origin of this art form?",
+    "Korean": "브라질의 카포에라는 무술과 춤을 결합한 전통 예술입니다. 이 예술 형태의 기원은 어디인가요?"
+  },
+  {
+    "EtoK": "Sweden의 Midsommar festival은 ‪sommarsolstånd‬를 celebrate해요. 가장 iconic한 ‪midsommarstång‬ activity는 무엇인가요?",
+    "KtoE": "스웨덴의 Midsommar 축제는 ‪sommarsolstånd‬를 기념합니다. 가장 iconic한 ‪midsommarstång‬ 활동은 what인가요?",
+    "English": "Sweden's Midsummer festival is a traditional celebration of the summer solstice. What is the most iconic activity during this festival?",
+    "Korean": "스웨덴의 미드썸머 축제는 하지를 기념하는 전통 행사입니다. 이 축제에서 가장 상징적인 활동은 무엇인가요?"
+  },
+  {
+    "EtoK": "Denmark의 Nyhavn은 København의 colorful harbor area예요. 이 area의 byggeår은 언제인가요?",
+    "KtoE": "덴마크의 Nyhavn은 København의 다채로운 harbor area입니다. 이 지역의 건축 연도는 when인가요?",
+    "English": "Denmark's Nyhavn is a colorful harbor area in Copenhagen. In what year was it constructed?",
+    "Korean": "덴마크의 뉴하운은 코펜하겐의 다채로운 항구 지역입니다. 이 지역의 건축 연도는 언제인가요?"
+  },
+  {
+    "EtoK": "Poland의 Wawel Zamek은 Kraków의 iconic landmark예요. 이 zamek의 powierzchnia는 m² 기준 얼마인가요?",
+    "KtoE": "폴란드의 Wawel Zamek은 Kraków의 상징적인 landmark입니다. 이 성의 전체 면적은 m² 기준으로 how much인가요?",
+    "English": "Poland's Wawel Castle is an iconic landmark in Kraków. What is its total area in square meters?",
+    "Korean": "폴란드의 바벨 성은 크라쿠프의 상징적인 랜드마크입니다. 이 성의 전체 면적은 제곱미터 기준으로 얼마인가요?"
+  },
+  {
+    "EtoK": "Hungary의 Budai Vár은 Budapest의 historic castle complex예요. 이 vár építési éve는 언제인가요?",
+    "KtoE": "헝가리의 Budai Vár은 Budapest의 역사적인 castle complex입니다. 이 성의 építési év은 when인가요?",
+    "English": "Hungary's Buda Castle is a historic castle complex in Budapest. In what year was it constructed?",
+    "Korean": "헝가리의 부다 성은 부다페스트의 역사적인 성채 단지입니다. 이 성의 건축 연도는 언제인가요?"
+  },
+  {
+    "EtoK": "Czech Republic의 Karlův most는 Praha의 iconic stone bridge예요. 이 most의 délka는 m 기준 얼마인가요?",
+    "KtoE": "체코의 Karlův most는 Praha의 상징적인 stone bridge입니다. 이 다리의 전체 길이는 m 기준으로 how much인가요?",
+    "English": "Czech Republic's Charles Bridge is an iconic stone bridge in Prague. What is its total length in meters?",
+    "Korean": "체코의 카를교는 프라하의 상징적인 돌다리입니다. 이 다리의 전체 길이는 미터 기준으로 얼마인가요?"
+  },
+  {
+    "EtoK": "Russia의 борщ는 traditional beet soup이에요. 이 dish의 가장 중요한 재료는 무엇인가요?",
+    "KtoE": "러시아의 борщ는 전통적인 beet soup입니다. 이 요리의 key ingredient는 what인가요?",
+    "English": "Russia's borscht is a traditional beet soup. What is the most essential ingredient in this dish?",
+    "Korean": "러시아의 보르시치는 전통적인 비트 수프입니다. 이 요리에서 가장 중요한 재료는 무엇인가요?"
+  },
+  {
+    "EtoK": "Germany의 Oktoberfest에서 가장 popular한 Lederhosen 스타일은 무엇인가요?",
+    "KtoE": "독일의 Oktoberfest에서 가장 인기 있는 Lederhosen style은 what인가요?",
+    "English": "What is the most popular Lederhosen style at Germany's Oktoberfest?",
+    "Korean": "독일의 옥토버페스트에서 가장 인기 있는 레더호젠 스타일은 무엇인가요?"
+  },
+  {
+    "EtoK": "Japan의 相撲 경기에서 力士들이 착용하는 廻し의 symbolic meaning은 무엇인가요?",
+    "KtoE": "일본의 相撲에서 力士들이 착용하는 廻し의 symbolic meaning은 what인가요?",
+    "English": "What is the symbolic meaning of the mawashi worn by rikishi in Japanese sumo wrestling?",
+    "Korean": "일본의 스모 경기에서 리키시들이 착용하는 마와시의 상징적 의미는 무엇인가요?"
+  },
+  {
+    "EtoK": "Korea의 김치는 UNESCO Intangible Cultural Heritage로 등재되었어요. 가장 common한 type은 무엇인가요?",
+    "KtoE": "한국의 김치는 UNESCO 무형문화유산으로 등재되었습니다. 가장 흔한 김치 종류는 what인가요?",
+    "English": "Korea's kimchi is listed as UNESCO Intangible Cultural Heritage. What is the most common type of kimchi?",
+    "Korean": "한국의 김치는 유네스코 무형문화유산으로 등재되었습니다. 가장 흔한 김치 종류는 무엇인가요?"
+  },
+  {
+    "EtoK": "Turkey의 Türk Kahvesi는 UNESCO Intangible Heritage로 등재된 unique coffee culture예요. 이 커피를 끓일 때 사용되는 특별한 cezve는 어떤 material로 만들어지나요?",
+    "KtoE": "터키의 Türk Kahvesi는 UNESCO 무형유산으로 등재된 독특한 coffee 문화입니다. 이 커피를 brew할 때 사용되는 특수 pot은 어떤 material로 만들어지나요?",
+    "English": "Turkey's Turkish Coffee is a UNESCO-listed intangible cultural heritage. What material is traditionally used to make the special cezve pot?",
+    "Korean": "터키의 터키 커피는 유네스코 무형유산으로 등재된 독특한 커피 문화입니다. 이 커피를 끓일 때 사용되는 특별한 냄비는 어떤 재료로 만들어지나요?"
+  },
+  {
+    "EtoK": "Mexico의 Día de los Muertos 축제에서 가장 iconic한 pan de muerto의 symbolic meaning은 무엇인가요?",
+    "KtoE": "멕시코의 Día de los Muertos(죽은 자의 날) 축제에서 가장 상징적인 pan de muerto의 의미는 what인가요?",
+    "English": "What is the symbolic meaning of pan de muerto, the most iconic bread during Mexico's Day of the Dead celebration?",
+    "Korean": "멕시코의 죽은 자의 날 축제에서 가장 상징적인 빵인 판 데 무에르토의 의미는 무엇인가요?"
+  },
+  {
+    "EtoK": "Greece의 Παρθενώνας은 Athens의 ancient landmark예요. 이 temple의 construction에 사용된 주 재료는 무엇인가요?",
+    "KtoE": "그리스의 Παρθενώνας(파르테논 신전)은 아테네의 고대 landmark입니다. 이 신전 건축에 사용된 primary material은 what인가요?",
+    "English": "Greece's Parthenon is an ancient landmark in Athens. What was the primary material used in its construction?",
+    "Korean": "그리스의 파르테논 신전은 아테네의 고대 유적입니다. 이 신전 건축에 사용된 주 재료는 무엇인가요?"
+  },
+  {
+    "EtoK": "Thailand의 สงกรานต์ festival period 동안 가장 중요한 traditional activity는 무엇인가요?",
+    "KtoE": "태국의 สงกรานต์(송크란) 축제 기간 중 가장 important한 전통 활동은 what인가요?",
+    "English": "What is the most important traditional activity during Thailand's Songkran Festival?",
+    "Korean": "태국의 송크란 축제 기간 동안 가장 중요한 전통 활동은 무엇인가요?"
+  },
+  {
+    "EtoK": "South Africa의 Ubuntu 철학은 what concept을 나타내나요? 이 philosophy의 사회적 impact는 무엇인가요?",
+    "KtoE": "남아프리카공화국의 Ubuntu 철학은 어떤 concept을 embody하나요? 이 philosophy가 사회에 미친 영향은 what인가요?",
+    "English": "What concept does South Africa's Ubuntu philosophy represent, and what social impact has it had?",
+    "Korean": "남아프리카공화국의 우분투 철학은 어떤 개념을 나타내며, 사회에 어떤 영향을 미쳤나요?"
+  },
+  {
+    "EtoK": "Ethiopia의 ቡና ስነወግ (Buna ceremony)는 social bonding ritual이에요. 이 ceremony에서 커피콩을 볶을 때 사용되는 특별한 머그컵 이름은 무엇인가요?",
+    "KtoE": "에티오피아의 ቡና ስነወግ(커피 의식)은 social bonding ritual입니다. 이 의식에서 사용되는 special roasting mug은 what인가요?",
+    "English": "Ethiopia's traditional coffee ceremony is a social bonding ritual. What is the name of the special mug used to roast coffee beans?",
+    "Korean": "에티오피아의 전통 커피 의식은 사회적 유대 강화 의식입니다. 이 의식에서 커피콩을 볶을 때 사용되는 특별한 머그컵 이름은 무엇인가요?"
+  },
+  {
+    "EtoK": "Mongolia의 Наадам festival에서 가장 중요한 세 가지 sport 종목은 무엇인가요?",
+    "KtoE": "몽골의 Наадам(나담) 축제에서 가장 important한 세 가지 sports은 what인가요?",
+    "English": "What are the three most important sports in Mongolia's Naadam Festival?",
+    "Korean": "몽골의 나담 축제에서 가장 중요한 세 가지 스포츠 종목은 무엇인가요?"
+  },
+  {
+    "EtoK": "What is the 이름 of the traditional lantern children들이 들고 다니는 during Vietnam의 Tết Trung Thu?",
+    "KtoE": "베트남의 Tết Trung Thu 중추절 기간에 아이들이 사용하는 전통 lantern 이름은 what인가요?",
+    "English": "What is the name of the traditional lantern carried by children during Vietnam's Mid-Autumn Festival?",
+    "Korean": "베트남의 중추절 기간에 아이들이 들고 다니는 전통 등불의 이름은 무엇인가요?"
+  },
+  {
+    "EtoK": "Ireland의 Claddagh ring design에 담긴 three symbolic elements는 무엇인가요?",
+    "KtoE": "아일랜드의 Claddagh 반지 디자인에 포함된 세 가지 symbolic 요소는 what인가요?",
+    "English": "What three symbolic elements are incorporated into the design of Ireland's Claddagh ring?",
+    "Korean": "아일랜드의 클래더 반지 디자인에 담긴 세 가지 상징적 요소는 무엇인가요?"
+  },
+  {
+    "EtoK": "New Zealand의 Māori culture에서 전통 war dance인 haka를 perform하는 주요 목적은 무엇인가요?",
+    "KtoE": "뉴질랜드 Māori 문화에서 haka(전쟁 춤)를 perform하는 main purpose는 what인가요?",
+    "English": "What is the primary purpose of performing the haka, a traditional Māori war dance in New Zealand?",
+    "Korean": "뉴질랜드 마오리 문화에서 전통 전쟁 춤인 하카를 추는 주요 목적은 무엇인가요?"
+  },
+  {
+    "EtoK": "In Korea의 소주 문화, what's the 가장 recommended한 안주 pairing?",
+    "KtoE": "한국의 drinking culture에서 soju와 가장 recommended되는 side dish는 무엇인가요?",
+    "English": "What's the most recommended side dish to pair with soju in Korea's drinking culture?",
+    "Korean": "한국의 소주 문화에서 가장 추천하는 안주는 무엇인가요?"
+  },
+  {
+    "EtoK": "In Mexico의 타코 stalls, which 살사 style이 가장 인기 있나요?",
+    "KtoE": "멕시코 street food인 taco에 가장 잘 어울리는 salsa의 종류는 무엇인가요?",
+    "English": "What type of salsa is most commonly paired with tacos in Mexican street food culture?",
+    "Korean": "멕시코의 길거리 음식 타코에 가장 흔히 곁들여 먹는 살사의 종류는 무엇인가요?"
+  },
+  {
+    "EtoK": "At Japan의 屋台, what’s the most iconic한 야키토리 variety?",
+    "KtoE": "일본의 street food 문화에서 가장 iconic한 yakitori의 종류는 무엇인가요?",
+    "English": "What is the most iconic type of yakitori in Japanese street food?",
+    "Korean": "일본의 길거리 음식인 야키토리에서 가장 대표적인 종류는 무엇인가요?"
+  },
+  {
+    "EtoK": "In Vietnam의 cà phê 문화, condensed milk을 넣은 가장 typical한 커피 style은 무엇인가요?",
+    "KtoE": "베트남의 coffee 문화에서 condensed milk와 함께 마시는 가장 common한 coffee는 무엇인가요?",
+    "English": "What's the most common style of coffee prepared with condensed milk in Vietnamese coffee culture?",
+    "Korean": "베트남의 커피 문화에서 연유를 넣어 만든 가장 흔한 커피 종류는 무엇인가요?"
+  },
+  {
+    "EtoK": "In Germany의 Biergarten culture, 가장 선호하는 traditional 안주는 무엇인가요?",
+    "KtoE": "독일의 Biergarten 문화에서 beer와 가장 잘 어울리는 traditional 안주는 무엇인가요?",
+    "English": "What is the most preferred traditional snack in Germany's beer garden culture?",
+    "Korean": "독일의 비어가르텐 문화에서 가장 선호되는 전통 안주는 무엇인가요?"
+  },
+  {
+    "EtoK": "In Korean PC방 culture, 가장 인기 있는 snack이나 음료는 무엇인가요?",
+    "KtoE": "한국의 internet cafe인 PC방에서 가장 인기 있는 snack이나 beverage는 무엇인가요?",
+    "English": "What's the most popular snack or beverage in Korean internet café culture?",
+    "Korean": "한국의 PC방 문화에서 가장 인기 있는 간식이나 음료는 무엇인가요?"
+  },
+  {
+    "EtoK": "In Turkey의 하맘에서 사용하는 전통적인 skincare 재료는 무엇인가요?",
+    "KtoE": "터키의 traditional bathhouse인 Hamam에서 가장 중요한 skincare 재료는 무엇인가요?",
+    "English": "What is the most essential skincare ingredient used in Turkey's traditional Hamam bathhouses?",
+    "Korean": "터키의 전통 목욕탕 하맘에서 가장 중요한 피부 관리 재료는 무엇인가요?"
+  },
+  {
+    "EtoK": "In Spain의 tapas 문화에서 가장 인기 있는 drink pairing은 무엇인가요?",
+    "KtoE": "스페인의 tapas culture에서 가장 선호되는 drink pairing은 무엇인가요?",
+    "English": "What is the most preferred drink paired with tapas in Spain?",
+    "Korean": "스페인의 타파스 문화에서 가장 선호되는 음료는 무엇인가요?"
+  },
+  {
+    "EtoK": "In Argentina의 mate drinking culture, mate를 마실 때 흔히 추가하는 ingredient는 무엇인가요?",
+    "KtoE": "아르헨티나의 mate drinking culture에서 mate를 마실 때 흔히 첨가하는 ingredient는 무엇인가요?",
+    "English": "What ingredient is commonly added to mate tea in Argentine drinking culture?",
+    "Korean": "아르헨티나의 마테 음료 문화에서 마테를 마실 때 흔히 첨가하는 재료는 무엇인가요?"
+  },
+  {
+    "EtoK": "한국어 단어 ‘Han’'을 영어로 정확하게 translate 하면 어떤 word가 가장 적절한가요?",
+    "KtoE": "영어로 정확히 옮기기 어려운 한국의 감정인 한(恨)을 best 표현하는 영어 단어는 무엇인가요?",
+    "English": "What English word best captures the meaning of the Korean emotion 'Han'?",
+    "Korean": "한국어의 '한(恨)'을 가장 잘 표현하는 영어 단어는 무엇인가요?"
+  },
+  {
+    "EtoK": "영어 표현 'comfort food'를 한국 문화 맥락에서 가장 비슷하게 나타낼 수 있는 한국어 단어는 무엇인가요?",
+    "KtoE": "한국어로 'comfort food'와 가장 비슷한 의미를 지닌 단어는 무엇인가요?",
+    "English": "What Korean word best matches the concept of 'comfort food'?",
+    "Korean": "'Comfort food'라는 영어 개념과 가장 비슷한 한국어 표현은 무엇인가요?"
+  },
+  {
+    "EtoK": "한국어의 '눈치'라는 단어를 영어로 가장 정확히 translate할 수 있는 단어는 무엇인가요?",
+    "KtoE": "한국의 사회적 개념인 '눈치'와 가장 비슷한 영어 단어는 무엇인가요?",
+    "English": "What's the closest English equivalent to the Korean concept of 'Nunchi'?",
+    "Korean": "한국어의 '눈치'와 가장 비슷한 영어 표현은 무엇인가요?"
+  },
+  {
+    "EtoK": "영어 단어 'serendipity'를 한국어로 정확히 translate 하면 어떤 단어가 가장 적합한가요?",
+    "KtoE": "영어 표현 'serendipity'를 가장 비슷하게 나타내는 한국어 단어는 무엇인가요?",
+    "English": "What Korean word best captures the meaning of 'serendipity'?",
+    "Korean": "'Serendipity'의 의미를 가장 잘 나타내는 한국어 단어는 무엇인가요?"
+  },
+  {
+    "EtoK": "한국어 표현 '효(孝)'를 영어로 가장 잘 나타낼 수 있는 단어는 무엇인가요?",
+    "KtoE": "한국의 문화적 개념 '효(孝)'를 가장 정확하게 표현하는 영어 단어는 무엇인가요?",
+    "English": "What English word best captures the Korean concept of 'Hyo'?",
+    "Korean": "한국의 문화적 개념인 '효(孝)'를 가장 잘 표현하는 영어 단어는 무엇인가요?"
+  },
+  {
+    "EtoK": "영어 표현 'homesick'을 한국어로 정확히 translate 하면 어떤 단어가 가장 적합한가요?",
+    "KtoE": "'Homesick'을 가장 비슷하게 표현하는 한국어 단어는 무엇인가요?",
+    "English": "What's the most accurate Korean translation for the English word 'homesick'?",
+    "Korean": "'Homesick'이라는 영어 표현을 가장 잘 나타내는 한국어 단어는 무엇인가요?"
+  },
+  {
+    "EtoK": "한국의 전통 개념인 '풍류'를 영어로 가장 잘 translate 할 수 있는 단어는 무엇인가요?",
+    "KtoE": "한국 전통 문화에서 중요한 개념인 '풍류'를 영어로 가장 잘 표현하는 단어는 무엇인가요?",
+    "English": "What's the best English translation of the Korean traditional concept 'Pungnyu'?",
+    "Korean": "한국 전통 개념인 '풍류'를 가장 잘 나타내는 영어 단어는 무엇인가요?"
+  },
+  {
+    "EtoK": "영어 단어 'nostalgia'를 한국 문화에서 가장 비슷한 느낌으로 translate할 수 있는 단어는 무엇인가요?",
+    "KtoE": "'Nostalgia'를 가장 비슷하게 나타내는 한국어 표현은 무엇인가요?",
+    "English": "What's the closest Korean equivalent to the English concept of 'nostalgia'?",
+    "Korean": "영어의 'nostalgia' 개념을 가장 비슷하게 나타내는 한국어 표현은 무엇인가요?"
+  },
+  {
+    "EtoK": "한국어 표현 '답정너'를 영어로 가장 잘 나타낼 수 있는 단어나 phrase는 무엇인가요?",
+    "KtoE": "한국어의 '답정너'와 가장 비슷한 영어 표현이나 phrase는 무엇인가요?",
+    "English": "What's the closest English equivalent for the Korean slang 'Dapjeongneo'?",
+    "Korean": "한국어 속어인 '답정너'와 가장 유사한 영어 표현은 무엇인가요?"
+  },
+  {
+    "EtoK": "영어 단어 'karma'를 한국의 전통적 개념에서 가장 유사한 단어로 나타내면 무엇인가요?",
+    "KtoE": "영어의 'karma' 개념과 가장 비슷한 한국의 전통적 표현은 무엇인가요?",
+    "English": "What's the closest Korean traditional concept to the English word 'karma'?",
+    "Korean": "영어의 'karma' 개념과 가장 비슷한 한국의 전통적인 표현은 무엇인가요?"
+  }
+]

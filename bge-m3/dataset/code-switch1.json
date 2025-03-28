@@ -1,0 +1,843 @@
+[
+    {
+      "topic": "science/technology",
+      "type": "fact",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "The 원자 is the basic unit of matter.",
+      "KtoE": "원자는 matter의 기본 단위이다.",
+      "English": "The atom is the basic unit of matter.",
+      "Korean": "원자는 물질의 기본 단위이다."
+    },
+    {
+      "topic": "science/technology",
+      "type": "fact",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "The 원자, composed of 양성자 and 전자, forms all matter.",
+      "KtoE": "원자는 protons와 전자로 구성되어 모든 물질을 이룬다.",
+      "English": "The atom, composed of protons and electrons, forms all matter.",
+      "Korean": "원자는 양성자와 전자로 구성되어 모든 물질을 이룬다."
+    },
+    {
+      "topic": "science/technology",
+      "type": "fact",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "한때 분할 불가능하다고 여겨져, the 원자 remains the basic unit of matter.",
+      "KtoE": "한때 분할이 불가능하다고 여겨져, 원자는 the basic unit of matter로 남는다.",
+      "English": "Once considered indivisible, the atom remains the basic unit of matter.",
+      "Korean": "한때 분할이 불가능하다고 여겨져, 원자는 물질의 기본 단위로 남는다."
+    },
+    {
+      "topic": "science/technology",
+      "type": "fact",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Although modern science reveals 아원자 입자, the 원자, comprising 양성자, 중성자, and 전자, is still viewed as matter's unit.",
+      "KtoE": "현대 과학이 subatomic 입자를 밝혀냈지만, 원자는 양성자, 중성자, and electrons로 구성되어 물질의 단위로 간주된다.",
+      "English": "Although modern science reveals subatomic particles, the atom, comprising protons, neutrons, and electrons, is still viewed as matter's unit.",
+      "Korean": "현대 과학이 아원자 입자를 밝혀냈지만, 원자는 양성자, 중성자, 전자로 구성되어 물질의 단위로 간주된다."
+    },
+    {
+      "topic": "science/technology",
+      "type": "question",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "Does the 원자 serve as the basic unit of matter?",
+      "KtoE": "원자는 matter의 기본 단위인가요?",
+      "English": "Does the atom serve as the basic unit of matter?",
+      "Korean": "원자가 물질의 기본 단위인가요?"
+    },
+    {
+      "topic": "science/technology",
+      "type": "question",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "Did scientists confirm that the 원자, made of 양성자 and 전자, forms all matter?",
+      "KtoE": "과학자들이 원자가 protons와 전자로 이루어 모든 물질을 구성함을 확인했나요?",
+      "English": "Did scientists confirm that the atom, made of protons and electrons, forms all matter?",
+      "Korean": "과학자들이 원자가 양성자와 전자로 이루어 모든 물질을 구성함을 확인했나요?"
+    },
+    {
+      "topic": "science/technology",
+      "type": "question",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Because it is fundamental, can we say the 원자 is the essential unit of matter?",
+      "KtoE": "근본적이기에 원자가 matter의 필수 단위라고 할 수 있나요?",
+      "English": "Because it is fundamental, can we say the atom is the essential unit of matter?",
+      "Korean": "근본적이기에 원자가 물질의 필수 단위라고 할 수 있나요?"
+    },
+    {
+      "topic": "science/technology",
+      "type": "question",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Although 아원자 구조 exist, can we still consider the 원자, with its 양성자, 중성자, and 전자, as matter's unit?",
+      "KtoE": "아원자 구조가 있음에도, 원자는 protons, 중성자, and electrons로 구성된 물질의 단위로 볼 수 있나요?",
+      "English": "Although subatomic structures exist, can we still consider the atom, with its protons, neutrons, and electrons, as matter's unit?",
+      "Korean": "아원자 구조가 있음에도, 원자는 양성자, 중성자, 전자로 구성된 물질의 단위로 볼 수 있나요?"
+    },
+    {
+      "topic": "science/technology",
+      "type": "opinion",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "I believe the 원자 is fascinating.",
+      "KtoE": "저는 원자가 fascinating하다고 생각한다.",
+      "English": "I believe the atom is fascinating.",
+      "Korean": "저는 원자가 매력적이라고 생각한다."
+    },
+    {
+      "topic": "science/technology",
+      "type": "opinion",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "I feel that the 원자, as a 기본 단위, is remarkably intriguing.",
+      "KtoE": "저는 원자가 fundamental 단위로서 매우 흥미롭다고 느낀다.",
+      "English": "I feel that the atom, as a fundamental unit, is remarkably intriguing.",
+      "Korean": "저는 원자가 기본 단위로서 매우 흥미롭다고 느낀다."
+    },
+    {
+      "topic": "science/technology",
+      "type": "opinion",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Although many study it, I think the 원자 remains endlessly fascinating.",
+      "KtoE": "많은 연구에도 불구하고, 원자는 endlessly 매력적이라고 생각한다.",
+      "English": "Although many study it, I think the atom remains endlessly fascinating.",
+      "Korean": "많은 연구에도 불구하고, 원자는 끝없이 매력적이라고 생각한다."
+    },
+    {
+      "topic": "science/technology",
+      "type": "opinion",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Even though subatomic mysteries persist, I maintain that the 원자, with its 숨은 비밀, is truly captivating.",
+      "KtoE": "아원자 미스터리가 존재함에도, 원자는 hidden 비밀로 인해 진정 captivating하다고 생각한다.",
+      "English": "Even though subatomic mysteries persist, I maintain that the atom, with its hidden secrets, is truly captivating.",
+      "Korean": "아원자 미스터리가 존재함에도, 원자는 숨은 비밀로 인해 진정 매혹적이라고 생각한다."
+    },
+    {
+      "topic": "language",
+      "type": "fact",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "A noun names a 사람, place, or thing.",
+      "KtoE": "명사는 person, 장소, or thing을 나타낸다.",
+      "English": "A noun names a person, place, or thing.",
+      "Korean": "명사는 사람, 장소, 사물을 나타낸다."
+    },
+    {
+      "topic": "language",
+      "type": "fact",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "A noun, a 품사, names a 사람, place, thing, or idea.",
+      "KtoE": "명사는 part of speech 중 하나로, 사람, 장소, 사물, or idea를 나타낸다.",
+      "English": "A noun, a part of speech, names a person, place, thing, or idea.",
+      "Korean": "명사는 품사 중 하나로, 사람, 장소, 사물 또는 개념을 나타낸다."
+    },
+    {
+      "topic": "language",
+      "type": "fact",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Since it functions as a subject or 목적어, a noun is essential in sentence structure.",
+      "KtoE": "명사가 주어나 목적어 역할을 하기 때문에, 문장에서 필수적이다.",
+      "English": "Since it functions as a subject or object, a noun is essential in sentence structure.",
+      "Korean": "명사는 주어나 목적어로 기능하기 때문에 문장에서 필수적이다."
+    },
+    {
+      "topic": "language",
+      "type": "fact",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Although adjectives add 설명, a noun, serving as the sentence's core, identifies the 주어.",
+      "KtoE": "형용사가 설명을 추가하지만, 명사는 문장의 core로서 주어를 식별한다.",
+      "English": "Although adjectives add description, a noun, serving as the sentence's core, identifies the subject.",
+      "Korean": "형용사가 설명을 추가하지만, 명사는 문장의 핵심으로 주어를 식별한다."
+    },
+    {
+      "topic": "language",
+      "type": "question",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "Is a noun used to name a 사람 or thing?",
+      "KtoE": "명사는 person이나 사물을 지칭하나요?",
+      "English": "Is a noun used to name a person or thing?",
+      "Korean": "명사는 사람이나 사물을 지칭하나요?"
+    },
+    {
+      "topic": "language",
+      "type": "question",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "Did you learn that a noun, as a 품사, names a 사람, place, thing, or idea?",
+      "KtoE": "명사가 part of speech의 한 종류로, 사람, 장소, 사물, or idea를 나타낸다는 것을 배웠나요?",
+      "English": "Did you learn that a noun, as a part of speech, names a person, place, thing, or idea?",
+      "Korean": "명사가 품사의 한 종류로, 사람, 장소, 사물 또는 개념을 나타낸다는 것을 배웠나요?"
+    },
+    {
+      "topic": "language",
+      "type": "question",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Since it can be the subject, do you agree that a noun is crucial in a 문장?",
+      "KtoE": "명사가 주어나 목적어 역할을 할 수 있으니, 문장에서 중요한 역할을 한다고 생각하나요?",
+      "English": "Since it can be the subject, do you agree that a noun is crucial in a sentence?",
+      "Korean": "명사가 주어나 목적어 역할을 할 수 있으니 문장에서 중요한 역할을 한다고 생각하나요?"
+    },
+    {
+      "topic": "language",
+      "type": "question",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Although verbs carry action, can we argue that a noun, serving as the 문장의 핵심, is indispensable?",
+      "KtoE": "동사가 행동을 나타내지만, 명사는 문장의 핵심 역할을 하므로 없어서는 안 된다고 주장할 수 있나요?",
+      "English": "Although verbs carry action, can we argue that a noun, serving as the sentence's core, is indispensable?",
+      "Korean": "동사가 행동을 나타내지만, 명사는 문장의 핵심으로서 없어서는 안 된다고 주장할 수 있나요?"
+    },
+    {
+      "topic": "language",
+      "type": "opinion",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "I think nouns are 필수적.",
+      "KtoE": "저는 명사가 essential하다고 생각한다.",
+      "English": "I think nouns are essential.",
+      "Korean": "저는 명사가 필수적이라고 생각한다."
+    },
+    {
+      "topic": "language",
+      "type": "opinion",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "In my view, nouns, as key 품사, are indispensable in communication.",
+      "KtoE": "제 생각에는 명사가 key elements로서 없어서는 안 된다고 생각한다.",
+      "English": "In my view, nouns, as key parts of speech, are indispensable in communication.",
+      "Korean": "제 생각에는 명사가 의사소통의 핵심 요소로서 없어서는 안 된다고 생각한다."
+    },
+    {
+      "topic": "language",
+      "type": "opinion",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Although verbs drive action, I believe that nouns, forming the sentence backbone, are equally vital.",
+      "KtoE": "동사가 행동을 주도하지만, 명사가 문장의 backbone을 이루어 equally vital하다고 본다.",
+      "English": "Although verbs drive action, I believe that nouns, forming the sentence backbone, are equally vital.",
+      "Korean": "동사가 행동을 주도하지만, 문장의 뼈대를 이루는 명사는 똑같이 중요하다고 본다."
+    },
+    {
+      "topic": "language",
+      "type": "opinion",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Even though language is dynamic, I argue that nouns, providing identity and context, remain fundamentally important.",
+      "KtoE": "언어가 dynamic하더라도, 명사는 정체성과 문맥을 제공해 근본적으로 중요하다고 주장한다.",
+      "English": "Even though language is dynamic, I argue that nouns, providing identity and context, remain fundamentally important.",
+      "Korean": "언어가 동적이지만, 명사는 정체성과 문맥을 제공해 근본적으로 중요하다고 주장한다."
+    },
+    {
+      "topic": "history/culture",
+      "type": "fact",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "The 독립 선언 marked America's birth.",
+      "KtoE": "독립 선언은 America's 탄생을 알렸다.",
+      "English": "The Declaration of Independence marked America's birth.",
+      "Korean": "독립 선언은 미국의 탄생을 알렸다."
+    },
+    {
+      "topic": "history/culture",
+      "type": "fact",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "The 독립 선언, signed in 1776, marked America's birth.",
+      "KtoE": "1776년에 서명된 독립 선언은 America's 탄생을 알렸다.",
+      "English": "The Declaration of Independence, signed in 1776, marked America's birth.",
+      "Korean": "1776년에 서명된 독립 선언은 미국의 탄생을 알렸다."
+    },
+    {
+      "topic": "history/culture",
+      "type": "fact",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Because it proclaimed 자유, the 독립 선언 significantly shaped American history.",
+      "KtoE": "자유를 선언하여, 독립 선언은 American history에 큰 영향을 미쳤다.",
+      "English": "Because it proclaimed freedom, the Declaration of Independence significantly shaped American history.",
+      "Korean": "자유를 선언하여, 독립 선언은 미국 역사에 큰 영향을 미쳤다."
+    },
+    {
+      "topic": "history/culture",
+      "type": "fact",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Although debated by historians, the 독립 선언, by proclaiming 자유, shaped American history.",
+      "KtoE": "역사가들 사이 논란이 있으나, 독립 선언은 자유를 선포해 미국 역사를 형성했다.",
+      "English": "Although debated by historians, the Declaration of Independence, by proclaiming freedom, shaped American history.",
+      "Korean": "역사가들 사이 논란이 있으나, 독립 선언은 자유를 선포해 미국 역사를 형성했다."
+    },
+    {
+      "topic": "history/culture",
+      "type": "question",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "Did the 독립 선언 mark America's birth?",
+      "KtoE": "독립 선언이 America's 탄생을 알렸나요?",
+      "English": "Did the Declaration of Independence mark America's birth?",
+      "Korean": "독립 선언이 미국의 탄생을 알렸나요?"
+    },
+    {
+      "topic": "history/culture",
+      "type": "question",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "Was the 독립 선언, signed in 1776, a milestone in American history?",
+      "KtoE": "1776년에 서명된 독립 선언이 American history에서 이정표였나요?",
+      "English": "Was the Declaration of Independence, signed in 1776, a milestone in American history?",
+      "Korean": "1776년에 서명된 독립 선언이 미국 역사에서 이정표였나요?"
+    },
+    {
+      "topic": "history/culture",
+      "type": "question",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Because it proclaimed 자유, do you believe the 독립 선언 changed American history?",
+      "KtoE": "자유를 선포했기에, 독립 선언이 미국 역사를 크게 바꿨다고 보나요?",
+      "English": "Because it proclaimed freedom, do you believe the Declaration of Independence changed American history?",
+      "Korean": "자유를 선포했기에, 독립 선언이 미국 역사를 크게 바꿨다고 보나요?"
+    },
+    {
+      "topic": "history/culture",
+      "type": "question",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Although some debate its impact, can we agree that the 독립 선언, by proclaiming 자유, altered American history?",
+      "KtoE": "일부에서는 논란이 있지만, 독립 선언이 자유를 선포해 미국 역사를 바꿨다고 보나요?",
+      "English": "Although some debate its impact, can we agree that the Declaration of Independence, by proclaiming freedom, altered American history?",
+      "Korean": "일부에서는 논란이 있지만, 독립 선언이 자유를 선포해 미국 역사를 바꿨다고 보나요?"
+    },
+    {
+      "topic": "history/culture",
+      "type": "opinion",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "I think the 독립 선언 is inspiring.",
+      "KtoE": "저는 독립 선언이 inspiring하다고 생각한다.",
+      "English": "I think the Declaration of Independence is inspiring.",
+      "Korean": "저는 독립 선언이 감동적이라고 생각한다."
+    },
+    {
+      "topic": "history/culture",
+      "type": "opinion",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "I feel that the 독립 선언, marking 자유, is a landmark in history.",
+      "KtoE": "저는 독립 선언이 자유를 상징하여 역사적 이정표라고 느낀다.",
+      "English": "I feel that the Declaration of Independence, marking freedom, is a landmark in history.",
+      "Korean": "저는 독립 선언이 자유를 상징해 역사적 이정표라고 느낀다."
+    },
+    {
+      "topic": "history/culture",
+      "type": "opinion",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Although its impact is debated, I believe the 독립 선언 remains a symbol of hope.",
+      "KtoE": "영향에 대해 논란이 있지만, 독립 선언은 여전히 희망의 상징이라고 생각한다.",
+      "English": "Although its impact is debated, I believe the Declaration of Independence remains a symbol of hope.",
+      "Korean": "영향에 논란이 있지만, 독립 선언은 여전히 희망의 상징이라고 생각한다."
+    },
+    {
+      "topic": "history/culture",
+      "type": "opinion",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Even if historians differ, I maintain that the 독립 선언, with its 대담한 ideals, continues to inspire generations.",
+      "KtoE": "역사가들이 의견이 달라도, 독립 선언은 대담한 이상으로 세대를 감동시킨다고 주장한다.",
+      "English": "Even if historians differ, I maintain that the Declaration of Independence, with its bold ideals, continues to inspire generations.",
+      "Korean": "역사가들이 달라도, 독립 선언은 대담한 이상으로 세대를 감동시킨다고 주장한다."
+    },
+    {
+      "topic": "economy/politics",
+      "type": "fact",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "Inflation measures the rising 가격 of goods and services.",
+      "KtoE": "인플레이션은 상품과 서비스의 가격 상승을 측정한다.",
+      "English": "Inflation measures the rising prices of goods and services.",
+      "Korean": "인플레이션은 상품과 서비스 가격 상승을 측정한다."
+    },
+    {
+      "topic": "economy/politics",
+      "type": "fact",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "Inflation, a key 경제 indicator, measures the sustained rise in prices over time.",
+      "KtoE": "인플레이션은 주요 경제 지표로서, 장기간에 걸친 가격 상승을 측정한다.",
+      "English": "Inflation, a key economic indicator, measures the sustained rise in prices over time.",
+      "Korean": "인플레이션은 주요 경제 지표로, 장기간 가격 상승을 측정한다."
+    },
+    {
+      "topic": "economy/politics",
+      "type": "fact",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Since it affects purchasing power, inflation is closely monitored by governments.",
+      "KtoE": "구매력에 영향을 미치기 때문에, 인플레이션은 정부에 의해 면밀히 관찰된다.",
+      "English": "Since it affects purchasing power, inflation is closely monitored by governments.",
+      "Korean": "구매력에 영향을 미치기 때문에, 인플레이션은 정부에 의해 면밀히 관찰된다."
+    },
+    {
+      "topic": "economy/politics",
+      "type": "fact",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Although various factors contribute, inflation, impacting consumer behavior, remains a critical economic concern.",
+      "KtoE": "여러 요인이 작용하지만, 인플레이션은 소비자 지출에 미치는 영향으로 심각한 경제 문제로 남는다.",
+      "English": "Although various factors contribute, inflation, impacting consumer behavior, remains a critical economic concern.",
+      "Korean": "여러 요인이 작용하지만, 인플레이션은 소비자 지출에 미치는 영향으로 심각한 경제 문제로 남는다."
+    },
+    {
+      "topic": "economy/politics",
+      "type": "question",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "Does inflation indicate rising 가격?",
+      "KtoE": "인플레이션이 가격 상승을 의미하나요?",
+      "English": "Does inflation indicate rising prices?",
+      "Korean": "인플레이션이 가격 상승을 의미하나요?"
+    },
+    {
+      "topic": "economy/politics",
+      "type": "question",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "Can you confirm that inflation, a key 경제 measure, reflects the rise in prices over time?",
+      "KtoE": "인플레이션이 주요 경제 지표로서 시간이 지나면서 가격 상승을 반영한다고 확인하나요?",
+      "English": "Can you confirm that inflation, a key economic measure, reflects the rise in prices over time?",
+      "Korean": "인플레이션이 주요 경제 지표로서 시간이 지나며 가격 상승을 반영한다고 확인하나요?"
+    },
+    {
+      "topic": "economy/politics",
+      "type": "question",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Since it affects 생활비, do you think inflation is a critical concern for governments?",
+      "KtoE": "생활비에 영향을 미치므로, 인플레이션이 정부에 중요한 문제라고 생각하나요?",
+      "English": "Since it affects living costs, do you think inflation is a critical concern for governments?",
+      "Korean": "생활비에 영향을 미치므로 인플레이션이 정부에 중요한 문제라고 생각하나요?"
+    },
+    {
+      "topic": "economy/politics",
+      "type": "question",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Although influenced by many factors, can we say that inflation, impacting consumer spending, poses a serious challenge?",
+      "KtoE": "여러 요인이 작용하지만, 인플레이션이 소비자 지출에 미치는 영향은 심각한 문제라고 할 수 있나요?",
+      "English": "Although influenced by many factors, can we say that inflation, impacting consumer spending, poses a serious challenge?",
+      "Korean": "여러 요인이 작용하지만, 인플레이션이 소비자 지출에 미치는 영향은 심각한 도전이라 할 수 있나요?"
+    },
+    {
+      "topic": "economy/politics",
+      "type": "opinion",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "I believe inflation harms the 경제.",
+      "KtoE": "저는 인플레이션이 economy에 해롭다고 생각한다.",
+      "English": "I believe inflation harms the economy.",
+      "Korean": "저는 인플레이션이 경제에 해롭다고 생각한다."
+    },
+    {
+      "topic": "economy/politics",
+      "type": "opinion",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "I feel that persistent inflation, by raising prices, negatively affects everyday life.",
+      "KtoE": "지속되는 인플레이션이 가격 상승을 유발해 일상에 부정적인 영향을 미친다고 느낀다.",
+      "English": "I feel that persistent inflation, by raising prices, negatively affects everyday life.",
+      "Korean": "저는 지속되는 인플레이션이 가격을 올려 일상에 부정적인 영향을 미친다고 느낀다."
+    },
+    {
+      "topic": "economy/politics",
+      "type": "opinion",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Although many factors play a role, I think inflation, impacting 임금, is a serious threat.",
+      "KtoE": "여러 요인이 작용하지만, 인플레이션이 임금에 미치는 영향은 심각한 위협이라고 생각한다.",
+      "English": "Although many factors play a role, I think inflation, impacting wages, is a serious threat.",
+      "Korean": "여러 요인이 작용하지만, 인플레이션이 임금에 미치는 영향은 심각한 위협이라고 본다."
+    },
+    {
+      "topic": "economy/politics",
+      "type": "opinion",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Even though economic theories vary, I argue that inflation, by eroding purchasing power, undermines growth.",
+      "KtoE": "경제 이론이 다양하지만, 인플레이션이 구매력을 감소시켜 성장을 저해한다고 주장한다.",
+      "English": "Even though economic theories vary, I argue that inflation, by eroding purchasing power, undermines growth.",
+      "Korean": "경제 이론이 다양하지만, 인플레이션이 구매력을 떨어뜨려 성장을 저해한다고 주장한다."
+    },
+    {
+      "topic": "art",
+      "type": "fact",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "Mona Lisa is a famous 그림 by Leonardo da Vinci.",
+      "KtoE": "모나리자는 Leonardo da Vinci의 유명한 그림이다.",
+      "English": "Mona Lisa is a famous painting by Leonardo da Vinci.",
+      "Korean": "모나리자는 레오나르도 다 빈치의 유명한 그림이다."
+    },
+    {
+      "topic": "art",
+      "type": "fact",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "Mona Lisa, painted in the 16th century, is admired 전 세계에서.",
+      "KtoE": "16세기에 그려진 모나리자는 전 세계에서 감탄받는다.",
+      "English": "Mona Lisa, painted in the 16th century, is admired worldwide.",
+      "Korean": "16세기에 그려진 모나리자는 전 세계에서 감탄받는다."
+    },
+    {
+      "topic": "art",
+      "type": "fact",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Because it features a 수수께끼 같은 smile, Mona Lisa has intrigued art lovers.",
+      "KtoE": "수수께끼 같은 미소 때문에, 모나리자는 art lovers를 사로잡았다.",
+      "English": "Because it features an enigmatic smile, Mona Lisa has intrigued art lovers.",
+      "Korean": "수수께끼 같은 미소 때문에 모나리자는 예술 애호가를 사로잡았다."
+    },
+    {
+      "topic": "art",
+      "type": "fact",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Although many analyze its symbolism, Mona Lisa, with its 섬세한 기법, continues to captivate critics.",
+      "KtoE": "다양한 해석에도, 모나리자는 섬세한 기법으로 비평가들을 계속 매혹시킨다.",
+      "English": "Although many analyze its symbolism, Mona Lisa, with its subtle technique, continues to captivate critics.",
+      "Korean": "다양한 해석에도 모나리자는 섬세한 기법으로 비평가들을 계속 매혹시킨다."
+    },
+    {
+      "topic": "art",
+      "type": "question",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "Is Mona Lisa painted by Leonardo da Vinci?",
+      "KtoE": "모나리자가 Leonardo da Vinci에 의해 그려졌나요?",
+      "English": "Is Mona Lisa painted by Leonardo da Vinci?",
+      "Korean": "모나리자가 레오나르도 다 빈치에 의해 그려졌나요?"
+    },
+    {
+      "topic": "art",
+      "type": "question",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "Did Leonardo da Vinci create Mona Lisa during the 르네상스?",
+      "KtoE": "레오나르도 다 빈치가 르네상스 시기에 Mona Lisa를 그렸나요?",
+      "English": "Did Leonardo da Vinci create Mona Lisa during the Renaissance?",
+      "Korean": "레오나르도 다 빈치가 르네상스 시기에 모나리자를 그렸나요?"
+    },
+    {
+      "topic": "art",
+      "type": "question",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Since it shows a 수수께끼 같은 smile, do you think Mona Lisa intrigues art enthusiasts?",
+      "KtoE": "수수께끼 같은 미소가 있어, 모나리자가 예술 애호가들을 사로잡는다고 보나요?",
+      "English": "Since it shows a mysterious smile, do you think Mona Lisa intrigues art enthusiasts?",
+      "Korean": "수수께끼 같은 미소가 있어, 모나리자가 예술 애호가들을 사로잡는다고 보나요?"
+    },
+    {
+      "topic": "art",
+      "type": "question",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Although its style is debated, can we agree that Mona Lisa, with its 수수께끼 같은 expression, fascinates many?",
+      "KtoE": "스타일에 대해 논란이 있으나, 모나리자의 수수께끼 같은 표정이 많은 이들을 매혹한다고 보나요?",
+      "English": "Although its style is debated, can we agree that Mona Lisa, with its enigmatic expression, fascinates many?",
+      "Korean": "스타일에 논란이 있으나, 모나리자의 수수께끼 같은 표정이 많은 이들을 매혹한다고 보나요?"
+    },
+    {
+      "topic": "art",
+      "type": "opinion",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "I think Mona Lisa is truly 매혹적.",
+      "KtoE": "저는 Mona Lisa가 truly 매혹적이라고 생각한다.",
+      "English": "I think Mona Lisa is truly mesmerizing.",
+      "Korean": "저는 모나리자가 정말 매혹적이라고 생각한다."
+    },
+    {
+      "topic": "art",
+      "type": "opinion",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "I feel that Mona Lisa, with its 섬세한 details, captivates the viewer deeply.",
+      "KtoE": "저는 모나리자가 섬세한 디테일로 관람객을 깊이 사로잡는다고 느낀다.",
+      "English": "I feel that Mona Lisa, with its subtle details, captivates the viewer deeply.",
+      "Korean": "저는 모나리자가 섬세한 디테일로 관람객을 깊이 사로잡는다고 느낀다."
+    },
+    {
+      "topic": "art",
+      "type": "opinion",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Although art is subjective, I believe Mona Lisa remains a masterpiece of 수수께끼 같은 allure.",
+      "KtoE": "예술은 주관적이지만, 모나리자는 수수께끼 같은 매력의 걸작이라고 생각한다.",
+      "English": "Although art is subjective, I believe Mona Lisa remains a masterpiece of enigmatic allure.",
+      "Korean": "예술은 주관적이지만, 모나리자는 수수께끼 같은 매력의 걸작이라고 생각한다."
+    },
+    {
+      "topic": "art",
+      "type": "opinion",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Even though interpretations differ, I argue that Mona Lisa, with its 신비한 smile, offers endless fascination.",
+      "KtoE": "해석이 다르더라도, 모나리자는 신비한 미소로 끝없는 매력을 제공한다고 주장한다.",
+      "English": "Even though interpretations differ, I argue that Mona Lisa, with its mysterious smile, offers endless fascination.",
+      "Korean": "해석이 다르더라도, 모나리자는 신비한 미소로 끝없는 매력을 제공한다고 주장한다."
+    },
+    {
+      "topic": "geography",
+      "type": "fact",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "Paris is a major 도시 in France.",
+      "KtoE": "파리는 France의 주요 도시이다.",
+      "English": "Paris is a major city in France.",
+      "Korean": "파리는 프랑스의 주요 도시이다."
+    },
+    {
+      "topic": "geography",
+      "type": "fact",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "Paris, known for its art, is a major 허브 in France.",
+      "KtoE": "예술로 유명한 파리는 France의 중심 도시이다.",
+      "English": "Paris, known for its art, is a major hub in France.",
+      "Korean": "예술로 유명한 파리는 프랑스의 중심 도시이다."
+    },
+    {
+      "topic": "geography",
+      "type": "fact",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Because it hosts 역사적 명소, Paris attracts millions of tourists yearly.",
+      "KtoE": "역사적 명소가 있어, 파리는 매년 수백만 관광객을 끌어들인다.",
+      "English": "Because it hosts historic landmarks, Paris attracts millions of tourists yearly.",
+      "Korean": "역사적 명소가 있어, 파리는 매년 수백만 관광객을 끌어들인다."
+    },
+    {
+      "topic": "geography",
+      "type": "fact",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Although its charm is debated, Paris, with its 풍부한 cultural heritage, remains a top travel destination.",
+      "KtoE": "매력이 논란되지만, 파리는 풍부한 문화유산을 바탕으로 최고의 여행지로 남는다.",
+      "English": "Although its charm is debated, Paris, with its rich cultural heritage, remains a top travel destination.",
+      "Korean": "매력이 논란되지만, 파리는 풍부한 문화유산을 바탕으로 최고의 여행지로 남는다."
+    },
+    {
+      "topic": "geography",
+      "type": "question",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "Is Paris the 수도 of France?",
+      "KtoE": "파리가 France의 수도인가요?",
+      "English": "Is Paris the capital of France?",
+      "Korean": "파리가 프랑스의 수도인가요?"
+    },
+    {
+      "topic": "geography",
+      "type": "question",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "Can you confirm that Paris, renowned for its art, is the 수도 of France?",
+      "KtoE": "예술로 유명한 파리가 France의 수도임을 확인하나요?",
+      "English": "Can you confirm that Paris, renowned for its art, is the capital of France?",
+      "Korean": "예술로 유명한 파리가 프랑스의 수도임을 확인하나요?"
+    },
+    {
+      "topic": "geography",
+      "type": "question",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Because it hosts 역사적 명소, do you think Paris deserves its status as France's 수도?",
+      "KtoE": "역사적 명소가 있어, 파리가 France의 수도로서 합당하다고 보나요?",
+      "English": "Because it hosts historic landmarks, do you think Paris deserves its status as France's capital?",
+      "Korean": "역사적 명소가 있어, 파리가 프랑스의 수도로서 합당하다고 보나요?"
+    },
+    {
+      "topic": "geography",
+      "type": "question",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Although opinions vary, can we agree that Paris, with its rich history, rightfully remains the 수도 of France?",
+      "KtoE": "의견이 다르지만, 파리는 풍부한 역사를 바탕으로 프랑스의 수도로 남는 것이 당연하다고 보나요?",
+      "English": "Although opinions vary, can we agree that Paris, with its rich history, rightfully remains the capital of France?",
+      "Korean": "의견이 다르지만, 파리는 풍부한 역사를 바탕으로 프랑스의 수도로 남는 것이 당연하다고 보나요?"
+    },
+    {
+      "topic": "geography",
+      "type": "opinion",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "I believe Paris is 매력적.",
+      "KtoE": "저는 Paris가 매력적이라고 생각한다.",
+      "English": "I believe Paris is enchanting.",
+      "Korean": "저는 파리가 매력적이라고 생각한다."
+    },
+    {
+      "topic": "geography",
+      "type": "opinion",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "I feel that Paris, with its vibrant culture, truly captivates visitors.",
+      "KtoE": "저는 Paris가 생동감 있는 문화로 방문객을 사로잡는다고 느낀다.",
+      "English": "I feel that Paris, with its vibrant culture, truly captivates visitors.",
+      "Korean": "저는 파리가 생동감 있는 문화로 방문객을 사로잡는다고 느낀다."
+    },
+    {
+      "topic": "geography",
+      "type": "opinion",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Although cities vary, I believe Paris, with its 역사적 charm, stands out uniquely.",
+      "KtoE": "도시마다 다르지만, 파리는 역사적 매력으로 독보적이라고 생각한다.",
+      "English": "Although cities vary, I believe Paris, with its historical charm, stands out uniquely.",
+      "Korean": "도시마다 다르지만, 파리는 역사적 매력으로 독보적이라고 생각한다."
+    },
+    {
+      "topic": "geography",
+      "type": "opinion",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Even if some find its pace slow, I argue that Paris, enriched by history and art, remains irresistibly charming.",
+      "KtoE": "경쟁이 치열하더라도, 파리는 역사와 예술이 깃들어 여전히 매력적이라고 주장한다.",
+      "English": "Even if some find its pace slow, I argue that Paris, enriched by history and art, remains irresistibly charming.",
+      "Korean": "속도가 느리더라도, 파리는 역사와 예술이 깃들어 여전히 매력적이라고 주장한다."
+    },
+    {
+      "topic": "sports",
+      "type": "fact",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "Soccer is the world's most 인기 있는 sport.",
+      "KtoE": "축구는 전 세계에서 가장 인기 있는 스포츠이다.",
+      "English": "Soccer is the world's most popular sport.",
+      "Korean": "축구는 전 세계에서 가장 인기 있는 스포츠이다."
+    },
+    {
+      "topic": "sports",
+      "type": "fact",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "Soccer, played by two teams of eleven, is globally celebrated.",
+      "KtoE": "11명이 한 팀인 축구는 전 세계적으로 사랑받는다.",
+      "English": "Soccer, played by two teams of eleven, is globally celebrated.",
+      "Korean": "11명이 한 팀인 축구는 전 세계적으로 사랑받는다."
+    },
+    {
+      "topic": "sports",
+      "type": "fact",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Since it demands skill and 협동, soccer unites diverse communities worldwide.",
+      "KtoE": "기술과 협동이 요구되어, 축구는 전 세계의 다양한 공동체를 하나로 모은다.",
+      "English": "Since it demands skill and teamwork, soccer unites diverse communities worldwide.",
+      "Korean": "기술과 협동이 요구되어, 축구는 전 세계 다양한 공동체를 하나로 모은다."
+    },
+    {
+      "topic": "sports",
+      "type": "fact",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Although rules vary by region, soccer, requiring strategy and endurance, remains a unifying sport globally.",
+      "KtoE": "지역별로 규칙은 다르지만, 축구는 전략과 체력이 요구되어 전 세계를 하나로 묶는 스포츠이다.",
+      "English": "Although rules vary by region, soccer, requiring strategy and endurance, remains a unifying sport globally.",
+      "Korean": "지역별 규칙이 다르지만, 축구는 전략과 체력이 요구되어 전 세계를 하나로 묶는 스포츠이다."
+    },
+    {
+      "topic": "sports",
+      "type": "question",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "Is soccer the most 인기 있는 sport globally?",
+      "KtoE": "축구가 전 세계에서 가장 인기 있는 스포츠인가요?",
+      "English": "Is soccer the most popular sport globally?",
+      "Korean": "축구가 전 세계에서 가장 인기 있는 스포츠인가요?"
+    },
+    {
+      "topic": "sports",
+      "type": "question",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "Did you know that soccer, played by two teams of eleven, is celebrated worldwide?",
+      "KtoE": "두 팀 11명이 경기하는 축구가 전 세계적으로 사랑받는다는 사실을 알고 있나요?",
+      "English": "Did you know that soccer, played by two teams of eleven, is celebrated worldwide?",
+      "Korean": "두 팀 11명이 경기하는 축구가 전 세계적으로 사랑받는다는 사실을 알고 있나요?"
+    },
+    {
+      "topic": "sports",
+      "type": "question",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Since it requires skill and 협동, do you believe soccer unites people globally?",
+      "KtoE": "기술과 협동이 필요하기에, 축구가 전 세계 사람들을 하나로 모은다고 생각하나요?",
+      "English": "Since it requires skill and teamwork, do you believe soccer unites people globally?",
+      "Korean": "기술과 협동이 필요하기에 축구가 전 세계 사람들을 하나로 모은다고 생각하나요?"
+    },
+    {
+      "topic": "sports",
+      "type": "question",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Although rules differ, can we agree that soccer, demanding strategy and endurance, connects diverse cultures?",
+      "KtoE": "규칙이 다르지만, 축구는 전략과 체력이 요구되어 다양한 문화를 연결한다고 보나요?",
+      "English": "Although rules differ, can we agree that soccer, demanding strategy and endurance, connects diverse cultures?",
+      "Korean": "규칙이 다르지만, 축구는 전략과 체력이 요구되어 다양한 문화를 연결한다고 보나요?"
+    },
+    {
+      "topic": "sports",
+      "type": "opinion",
+      "complexity": "simple",
+      "contents": "brief",
+      "EtoK": "I believe soccer unites 사람들을.",
+      "KtoE": "저는 축구가 사람들을 하나로 모은다고 생각한다.",
+      "English": "I believe soccer unites people.",
+      "Korean": "저는 축구가 사람들을 하나로 모은다고 생각한다."
+    },
+    {
+      "topic": "sports",
+      "type": "opinion",
+      "complexity": "simple",
+      "contents": "detailed",
+      "EtoK": "I feel that soccer, with its global appeal, brings diverse communities together.",
+      "KtoE": "저는 축구가 전 세계적 매력으로 다양한 공동체를 결속시킨다고 느낀다.",
+      "English": "I feel that soccer, with its global appeal, brings diverse communities together.",
+      "Korean": "저는 축구가 전 세계적 매력으로 다양한 공동체를 결속시킨다고 느낀다."
+    },
+    {
+      "topic": "sports",
+      "type": "opinion",
+      "complexity": "complex",
+      "contents": "brief",
+      "EtoK": "Although many sports exist, I believe soccer, requiring teamwork, uniquely unites fans.",
+      "KtoE": "다른 스포츠도 있지만, 팀워크가 필요한 축구는 팬들을 독특하게 하나로 모은다고 생각한다.",
+      "English": "Although many sports exist, I believe soccer, requiring teamwork, uniquely unites fans.",
+      "Korean": "다른 스포츠도 있지만, 팀워크가 필요한 축구는 팬들을 독특하게 하나로 모은다고 생각한다."
+    },
+    {
+      "topic": "sports",
+      "type": "opinion",
+      "complexity": "complex",
+      "contents": "detailed",
+      "EtoK": "Even though competition is fierce, I argue that soccer, through its 열정적인 play, creates a strong sense of unity.",
+      "KtoE": "경쟁이 치열하더라도, 축구는 열정적인 경기를 통해 강한 단합감을 만든다고 주장한다.",
+      "English": "Even though competition is fierce, I argue that soccer, through its passionate play, creates a strong sense of unity.",
+      "Korean": "경쟁이 치열하지만, 축구는 열정적인 경기로 강한 단합감을 만든다고 주장한다."
+    }
+  ]
+  
