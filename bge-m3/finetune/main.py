@@ -15,10 +15,10 @@ def main():
         config={
             "architecture": "bge-m3",
             "dataset": "code-switch",
-            "learning_rate": 2e-5,
+            "learning_rate": 1e-5,
             "batch_size": 8,
             "epochs": 10,
-            "margin": 1.0
+            "margin": 0.7
         }
     )
     # 모델 로드 및 데이터셋 준비
