@@ -120,10 +120,8 @@ def train_model(model, dataloader, optimizer, criterion, epochs=10):
 
         if not artifact_initialized:
             artifact = wandb.Artifact(
-                name='best_model',
-                type='model',
-                metadata={...},
-                aliases=["initial"]
+                name='fine_tuned_bge_m3',
+                type='model'
             )
             wandb.log_artifact(artifact)
             artifact_initialized = True
