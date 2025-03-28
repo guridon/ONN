@@ -47,10 +47,7 @@ def main():
     
     print(f"평균 유사도 점수: {similarity_score:.4f}")
     
-    # 모델 저장 및 WandB 아티팩트 기록
-    model.save_pretrained("fine_tuned_bge_m3")
-    tokenizer.save_pretrained("fine_tuned_bge_m3")
-    wandb.save("fine_tuned_bge_m3/*")
+    wandb.save("fine_tuned_bge_m3.pth")
 
 if __name__ == "__main__":
     main()

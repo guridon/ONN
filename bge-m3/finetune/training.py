@@ -60,12 +60,21 @@ class MultilingualTripletLoss(nn.Module):
 def train_model(model, dataloader, optimizer, criterion, epochs=10):
     device = model.device
     total_steps = len(dataloader) * epochs
+    best_loss = float('inf')
+    artifact_initialized = False
+    wandb.watch(
+        model,
+        criterion=criterion,
+        log='all',  # gradients, parameters, loss 모두 기록
+        log_freq=100,  # 100 step마다 기록
+        idx=0,
+        log_graph=True
+    )
     scheduler = get_linear_schedule_with_warmup(
         optimizer, 
         num_warmup_steps=int(total_steps*0.1),
         num_training_steps=total_steps
     )
-    
     for epoch in range(epochs):
         model.train()
         total_loss = 0
@@ -108,7 +117,42 @@ def train_model(model, dataloader, optimizer, criterion, epochs=10):
             })
         
         epoch_loss = total_loss / len(dataloader)
+
+        if not artifact_initialized:
+            artifact = wandb.Artifact(
+                name='best_model',
+                type='model',
+                metadata={...},
+                aliases=["initial"]
+            )
+            wandb.log_artifact(artifact)
+            artifact_initialized = True
+        # 모델 저장 로직
+        if epoch_loss < best_loss:
+            best_loss = epoch_loss
+            torch.save({
+                'epoch': epoch+1,
+                'model_state_dict': model.state_dict(),
+                'optimizer_state_dict': optimizer.state_dict(),
+                'scheduler_state_dict': scheduler.state_dict(),
+                'loss': epoch_loss,
+            }, 'best_model.pth')
+            
+            # WandB 아티팩트 저장
+            artifact = wandb.use_artifact('best_model:latest')
+            artifact.metadata.update({
+                'epoch': epoch+1,
+                'loss': epoch_loss,
+                'lr': scheduler.get_last_lr()[0]
+            })
+            artifact.add_file('best_model.pth')
+            artifact.save()
         wandb.log({'epoch_loss': epoch_loss})
+        # 에포크 정보 상세 로깅
+        wandb.log({
+            'epoch': epoch+1,
+            'train_loss': epoch_loss,
+            'best_loss': best_loss,
+            'learning_rate': scheduler.get_last_lr()[0] 
+        }, step=epoch+1)
         print(f"Epoch {epoch+1} Loss: {epoch_loss:.4f}")
-
-
