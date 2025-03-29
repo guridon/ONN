@@ -63,7 +63,6 @@ def train_model(model, dataloader, optimizer, criterion, epochs=10):
     total_steps = len(dataloader) * epochs
     best_loss = float('inf')
     
-    # WandB 모델 모니터링 설정
     wandb.watch(
         model,
         criterion=criterion,
@@ -136,11 +135,11 @@ def train_model(model, dataloader, optimizer, criterion, epochs=10):
                     'lr': scheduler.get_last_lr()[0],
                     'batch_size': dataloader.batch_size,
                     'optimizer': type(optimizer).__name__
-                },
-                aliases=["latest", f"epoch-{epoch+1}", "best"]
+                }
             )
             best_artifact.add(buffer, f"model_epoch_{epoch+1}.pth")
-            wandb.log_artifact(best_artifact)
+            wandb.log_artifact(best_artifact,
+                               aliases=["latest", "best", f"epoch-{epoch+1}"])
             del buffer
 
         wandb.log({
