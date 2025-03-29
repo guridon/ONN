@@ -4,6 +4,7 @@ import torch.nn.functional as F
 from tqdm import tqdm
 import wandb
 from transformers import get_linear_schedule_with_warmup
+from io import BytesIO
 
 class MultilingualTripletLoss(nn.Module):
     def __init__(self, margin=0.5, temp=0.05):
@@ -61,20 +62,22 @@ def train_model(model, dataloader, optimizer, criterion, epochs=10):
     device = model.device
     total_steps = len(dataloader) * epochs
     best_loss = float('inf')
-    artifact_initialized = False
+    
+    # WandB 모델 모니터링 설정
     wandb.watch(
         model,
         criterion=criterion,
-        log='all',  # gradients, parameters, loss 모두 기록
-        log_freq=100,  # 100 step마다 기록
-        idx=0,
+        log='all',
+        log_freq=100,
         log_graph=True
     )
+    
     scheduler = get_linear_schedule_with_warmup(
         optimizer, 
         num_warmup_steps=int(total_steps*0.1),
         num_training_steps=total_steps
     )
+
     for epoch in range(epochs):
         model.train()
         total_loss = 0
@@ -86,22 +89,15 @@ def train_model(model, dataloader, optimizer, criterion, epochs=10):
             
             embeddings = {}
             for key in ['English', 'Korean', 'EtoK', 'KtoE']:
-                input_ids = batch[key]['input_ids'].squeeze(1).to(device)  # [batch, seq_len]
+                input_ids = batch[key]['input_ids'].squeeze(1).to(device)
                 attention_mask = batch[key]['attention_mask'].squeeze(1).to(device)
                 
-                assert input_ids.dim() == 2, f"잘못된 input_ids 차원: {input_ids.shape}"
-                assert attention_mask.dim() == 2, f"잘못된 attention_mask 차원: {attention_mask.shape}"
-                
                 with torch.amp.autocast(device_type='cuda', dtype=torch.float16):
-                    outputs = model(
-                        input_ids=input_ids,
-                        attention_mask=attention_mask
-                    )
+                    outputs = model(input_ids=input_ids, attention_mask=attention_mask)
                     
                 embeddings[key] = criterion.mean_pooling(outputs, attention_mask)
             
             loss = criterion(embeddings, batch.get('labels'))
-            
             loss.backward()
             torch.nn.utils.clip_grad_norm_(model.parameters(), 5.0)
             optimizer.step()
@@ -118,39 +114,39 @@ def train_model(model, dataloader, optimizer, criterion, epochs=10):
         
         epoch_loss = total_loss / len(dataloader)
 
-        if not artifact_initialized:
-            artifact = wandb.Artifact(
-                name='fine_tuned_bge_m3',
-                type='model'
-            )
-            wandb.log_artifact(artifact)
-            artifact_initialized = True
-        # 모델 저장 로직
         if epoch_loss < best_loss:
             best_loss = epoch_loss
+
+            buffer = BytesIO()
             torch.save({
                 'epoch': epoch+1,
                 'model_state_dict': model.state_dict(),
                 'optimizer_state_dict': optimizer.state_dict(),
                 'scheduler_state_dict': scheduler.state_dict(),
                 'loss': epoch_loss,
-            }, 'best_model.pth')
-            
-            # WandB 아티팩트 저장
-            artifact = wandb.use_artifact('best_model:latest')
-            artifact.metadata.update({
-                'epoch': epoch+1,
-                'loss': epoch_loss,
-                'lr': scheduler.get_last_lr()[0]
-            })
-            artifact.add_file('best_model.pth')
-            artifact.save()
-        wandb.log({'epoch_loss': epoch_loss})
-        # 에포크 정보 상세 로깅
+            }, buffer)
+            buffer.seek(0)
+
+            best_artifact = wandb.Artifact(
+                name='fine_tuned_bge_m3',
+                type='model',
+                metadata={
+                    'epoch': epoch+1,
+                    'loss': epoch_loss,
+                    'lr': scheduler.get_last_lr()[0],
+                    'batch_size': dataloader.batch_size,
+                    'optimizer': type(optimizer).__name__
+                },
+                aliases=["latest", f"epoch-{epoch+1}", "best"]
+            )
+            best_artifact.add(buffer, f"model_epoch_{epoch+1}.pth")
+            wandb.log_artifact(best_artifact)
+            del buffer
+
         wandb.log({
             'epoch': epoch+1,
             'train_loss': epoch_loss,
             'best_loss': best_loss,
             'learning_rate': scheduler.get_last_lr()[0] 
-        }, step=epoch+1)
+        })
         print(f"Epoch {epoch+1} Loss: {epoch_loss:.4f}")

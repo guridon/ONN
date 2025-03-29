@@ -7,7 +7,6 @@ from evaluation import evaluate_model
 import torch
 
 def main():
-    # WandB 초기화
     wandb.init(
         project="bge-m3-finetuning",
         entity="fnelwndls",
