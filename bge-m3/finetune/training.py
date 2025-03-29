@@ -5,6 +5,8 @@ from tqdm import tqdm
 import wandb
 from transformers import get_linear_schedule_with_warmup
 from io import BytesIO
+from tempfile import NamedTemporaryFile
+import os
 
 class MultilingualTripletLoss(nn.Module):
     def __init__(self, margin=0.5, temp=0.05):
@@ -126,22 +128,24 @@ def train_model(model, dataloader, optimizer, criterion, epochs=10):
             }, buffer)
             buffer.seek(0)
 
-            best_artifact = wandb.Artifact(
-                name='fine_tuned_bge_m3',
-                type='model',
-                metadata={
-                    'epoch': epoch+1,
-                    'loss': epoch_loss,
-                    'lr': scheduler.get_last_lr()[0],
-                    'batch_size': dataloader.batch_size,
-                    'optimizer': type(optimizer).__name__
-                }
-            )
-            best_artifact.add(buffer, f"model_epoch_{epoch+1}.pth")
-            wandb.log_artifact(best_artifact,
-                               aliases=["latest", "best", f"epoch-{epoch+1}"])
+            with NamedTemporaryFile(delete=True, suffix='.pth') as temp_file:
+                temp_file.write(buffer.read())
+                temp_file.flush()
+                best_artifact = wandb.Artifact(
+                    name='fine_tuned_bge_m3',
+                    type='model',
+                    metadata={
+                        'epoch': epoch+1,
+                        'loss': epoch_loss,
+                        'lr': scheduler.get_last_lr()[0],
+                        'batch_size': dataloader.batch_size,
+                        'optimizer': type(optimizer).__name__
+                    }
+                )
+                best_artifact.add_file(temp_file.name, name=f"model_epoch_{epoch+1}.pth")
+                wandb.log_artifact(best_artifact,
+                                aliases=["latest", "best", f"epoch-{epoch+1}"])
             del buffer
-
         wandb.log({
             'epoch': epoch+1,
             'train_loss': epoch_loss,
